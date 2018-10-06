@@ -1,0 +1,3060 @@
+PHYS-445 Nuclear fusion and plasma physics
+BIO-465 Biological modeling of neural networks
+PHYS-438 Fundamentals of biomedical imaging
+HUM-219 Science et littérature C
+HUM-242 Musicologie et histoire de la musique A
+HUM-418(a) Histoire et architecture de l'EPFL I
+HUM-429(a) Philosophy of life sciences I
+HUM-440(a) Global perspectives, local realities I
+UNIL-114 Mathématiques pour les Géosciences
+HUM-375 Prototypage
+HUM-418(b) Histoire et architecture de l'EPFL II
+HUM-429(b) Philosophy of life sciences II
+HUM-440(b) Global perspectives, local realities II
+CH-163 Chimie organique bio-orientée
+UNIL-101 Chimie générale et analytique I (pour BIO+PHA)
+UNIL-103 Chimie générale et analytique I (TP pour BIO)
+UNIL-104 Chimie générale et analytique I (TP pour PHA)
+UNIL-106 Chimie organique (pour BIO, PHA)
+UNIL-107 Mathématiques générales I (pour BIO+PHA)
+UNIL-133 Physique générale pour pharmacie (pour PHA)
+UNIL-208 Physique générale II (pour BIO+GEU)
+UNIL-102 Chimie générale et analytique II (pour BIO+PHA)
+UNIL-105 Chimie générale et analytique II (TP pour PHA)
+UNIL-108 Mathématiques générales II (pour BIO)
+UNIL-112 Physique générale I (pour BIO+GEU)
+UNIL-132 Approfondissement en chimie analytique (pour PHA)
+HUM-437(a) La recherche dans tous ses états I
+HUM-437(b) La recherche dans tous ses états II
+UNIL-002 Histoire de la cosmologie
+UNIL-005 Comprendre la physique: matière, mouvement, interactions
+ENV-406 Biomineralization: from nature to application
+UNIL-114 Mathématiques pour les Géosciences
+UNIL-208 Physique générale II (pour BIO+GEU)
+UNIL-112 Physique générale I (pour BIO+GEU)
+EE-593 Social media
+CH-163 Chimie organique bio-orientée
+UNIL-101 Chimie générale et analytique I (pour BIO+PHA)
+UNIL-103 Chimie générale et analytique I (TP pour BIO)
+UNIL-104 Chimie générale et analytique I (TP pour PHA)
+UNIL-106 Chimie organique (pour BIO, PHA)
+UNIL-107 Mathématiques générales I (pour BIO+PHA)
+UNIL-133 Physique générale pour pharmacie (pour PHA)
+UNIL-208 Physique générale II (pour BIO+GEU)
+UNIL-102 Chimie générale et analytique II (pour BIO+PHA)
+UNIL-105 Chimie générale et analytique II (TP pour PHA)
+UNIL-108 Mathématiques générales II (pour BIO)
+UNIL-112 Physique générale I (pour BIO+GEU)
+UNIL-132 Approfondissement en chimie analytique (pour PHA)
+CH-160(d) Chimie générale avancée
+CH-201 Analyse structurale
+CH-210 Biochimie I
+CH-301 Méthodes de séparation analytiques
+COM-301 Computer security
+ENG-433 Chimie des denrées alimentaires
+MATH-234(b) Probabilités et statistique
+UNIL-122 Physique expérimentale I (pour SFU)
+UNIL-130 Mathématiques I (pour SFU)
+UNIL-303 Méthodes de séparation analytiques TP
+CH-403 Mass spectrometry
+EE-552 Media security
+ENG-430 Risk management
+UNIL-123 Physique expérimentale II (pour SFU)
+UNIL-128 Chimie TP
+UNIL-131 Mathématiques II (pour SFU)
+UNIL-401 Projet avancé en chimie analytique
+AR-101 Théorie et critique du projet BA1
+AR-121 Théorie de l'architecture I
+AR-123 Histoire de l'architecture I
+AR-201(a) Théorie et critique du projet BA3 (Bakker & Blanc A.)
+AR-201(g) Théorie et critique du projet BA3 (Rey)
+AR-201(k) Théorie et critique du projet BA3 (Bru et Theriot)
+AR-201(m) Théorie et critique du projet BA3 (Taillieu)
+AR-201(n) Théorie et critique du projet BA3 (Lapierre)
+AR-211 Stéréotomie
+AR-219 Introduction aux outils CAO en architecture
+AR-225 Histoire de l'architecture III/IV
+AR-263 Théorie de l'urbanisme BA3
+AR-301(a) Théorie et critique du projet BA5 (Viganò)
+AR-301(b) Théorie et critique du projet BA5 (Graf F.)
+AR-301(c) Théorie et critique du projet BA5 (Ortelli L.)
+AR-301(d) Théorie et critique du projet BA5 (Fröhlich M. & A.)
+AR-313 Figuration expressive
+AR-320 Théorie de l'architecture V/VI
+AR-331 Construction et durabilité V
+AR-337 Concevoir des structures
+AR-401(a) Théorie et critique du projet MA1 (Vigano)
+AR-401(b) Théorie et critique du projet MA1 (Gugger)
+AR-401(g) Théorie et critique du projet MA1 (Floris)
+AR-401(h) Théorie et critique du projet MA1 (Dedobbeleer)
+AR-404 UE A: Site-specific consolidations on architecture
+AR-407 Visions et Utopies
+AR-415 UE L : Art and architecture: constructing the view I
+AR-421 Théorie de l'architecture VII
+AR-424(d) Why care? Une introduction à l'art contemporain
+AR-425 Histoire du béton
+AR-427 Histoire de l'habitation
+AR-432 UE B : Critique architecturale
+AR-434 Théories et techniques du projet de sauvegarde
+AR-436 A Political History of Urban Form
+AR-439 UE F : Architecture et réhabilitation
+AR-440 UE K : Architecture et durabilité : études de performances
+AR-442 Comfort and architecture: sustainable strategies
+AR-447 UE O : Béton. Matière de construction
+AR-451 Architecture et construction de la ville I
+AR-455 Urbanisme et territoires
+AR-457 Caractères architecturaux et urbanismes de l'Islam
+AR-465 Habitat et développement urbain
+AR-471 UE J : Territoire et paysage
+AR-476 UE U : Cartography
+AR-480 UE X: Experience design
+AR-483 Interactive conceptual design of structural forms
+AR-484 Introduction au BIM (Building Information Modeling)
+AR-487 Technological Innovation
+AR-489 Sociologie urbaine
+AR-493 Critique du projet urbain contemporain
+AR-495 Apparent realities - Constructing the view
+AR-497 Building design in the circular economy
+AR-498 La nouvelle architecture internationale suisse
+AR-521 De la structure à l'ornement
+AR-598 Enoncé théorique de master
+AR-599 Projet de master en architecture
+CIVIL-122 Structures I
+ENG-383 Droit de l'architecte, introduction : contrats et concours
+MATH-124 Géométrie pour architectes I
+MATH-189 Mathématiques
+PENS-490 Projet ENAC
+PENS-491 Summer workshop
+PHYS-118 Physique du bâtiment
+PHYS-335 Physique du bâtiment V
+AR-102 Théorie et critique du projet BA2
+AR-113 Figuration graphique
+AR-122 Théorie de l'architecture II
+AR-124 Histoire de l'architecture II
+AR-201(k) Théorie et critique du projet BA3 (Bru et Theriot)
+AR-202(a) Théorie et critique du projet BA4 (Bakker & Blanc A.)
+AR-202(g) Théorie et critique du projet BA4 (Rey)
+AR-202(m) Théorie et critique du projet BA4 (Taillieu)
+AR-202(n) Théorie et critique du projet BA4 (Lapierre)
+AR-210 Figuration et représentation de l'architecture
+AR-226 Histoire de l'architecture V/VI
+AR-302(a) Théorie et critique du projet BA6 (Viganò)
+AR-302(b) Théorie et critique du projet BA6 (Graf F.)
+AR-302(c) Théorie et critique du projet BA6 (Ortelli L.)
+AR-302(d) Théorie et critique du projet BA6 (Fröhlich M. & A.)
+AR-339 Concevoir dans le construit : outils et méthodes
+AR-367 Histoires de l'environnement
+AR-402 UE Y: Description: Operations
+AR-402(a) Théorie et critique du projet MA2 (Vigano)
+AR-402(b) Théorie et critique du projet MA2 (Gugger)
+AR-402(c) Théorie et critique du projet MA2 (Geers)
+AR-402(e) Théorie et critique du projet MA2 (Weinand)
+AR-402(f) Théorie et critique du projet MA2 (Tombesi )
+AR-402(g) Théorie et critique du projet MA2 (Floris)
+AR-402(y) Théorie et critique du projet MA2 (Huang)
+AR-416 UE N : Art et architecture: constructing the view II
+AR-423(a) Projets métaphoriques d'Archizoom à Koolhaas
+AR-428 Le projet du confort dans l'architecture du XXe s.
+AR-430 Magma et principes
+AR-433 UE H : Graphie
+AR-435 UE R : Introduction au BIM (Building Information Modeling)
+AR-448 UE P : Béton. Construction et préfabrication
+AR-449 Architecture et énergie solaire
+AR-452 Architecture et construction de la ville II
+AR-456 Urbanisme en Asie
+AR-458 Ville et mobilité
+AR-462 Ville africaine: introduction à la planification
+AR-466 UE D : Territoire et société
+AR-485 Political Economy of Design
+AR-491 Foncier, immobilier, logement
+AR-492 Economie spatiale et régionale
+AR-495 Apparent realities - Constructing the view
+AR-496 Behind/Beyond future cities
+AR-499 Visionnaires éclectiques. Architectures, 2000-2018
+AR-522 Difficult Double: Trouble with Classicists
+AR-526 Architecture autonome
+AR-535 Structures complexes
+AR-599 Projet de master en architecture
+CIVIL-123 Structures II
+CIVIL-434 Structure et architecture
+ENG-382 Gestion du projet d'architecture
+ENG-484 Droit de l'architecte, approfondissements : la réalisation d'une construction
+MATH-126 Géométrie pour architectes II
+PENS-490 Projet ENAC
+PHYS-336 Physique du bâtiment VI
+CH-108(a) Chimie TP I
+CH-110 Chimie générale avancée I
+CH-201 Analyse structurale
+CH-210 Biochimie I
+CH-221 Chemistry of elements s and p
+CH-230 Chimie organique, TP
+CH-233 Fonctions et réactions organiques II
+CH-243 Electrochimie des solutions
+CH-244 Quantum chemistry
+CH-301 Méthodes de séparation analytiques
+CH-309(a) Chimie analytique expérimentale
+CH-341 Chimie physique des interfaces
+CH-343 Spectroscopy
+ChE-201 Introduction to chemical engineering
+MATH-101(de) Analyse I (allemand)
+MATH-101(en) Analyse I (anglais)
+MATH-101(g) Analyse I
+MATH-111(en) Algèbre linéaire (anglais)
+MATH-111(g) Algèbre linéaire
+MATH-111(pi) Algèbre linéaire (cours pilote)
+MATH-234(b) Probabilités et statistique
+PHYS-101(de) Physique générale : mécanique (allemand)
+PHYS-101(en) Physique générale : mécanique (anglais)
+PHYS-101(i) Physique générale : mécanique
+PHYS-201(e) General physics: electromagnetism
+CH-109(a) Chimie TP II
+CH-120 Chimie générale avancée II
+CH-222 Coordination chemistry
+CH-223 Organometallic chemistry
+CH-234 Fonctions et réactions organiques III
+CH-242(b) Statistical thermodynamics
+CH-250 Numerical methods in chemistry
+CH-341 Chimie physique des interfaces
+CH-343 Spectroscopy
+CS-119(k) Information, calcul, communication
+ChE-203 Introduction au génie chimique TP
+ChE-204 Introduction to transport phenomena
+ChE-349 Experimental physical chemistry
+ENG-432 Législation du travail au laboratoire
+MATH-106(en) Analyse II (anglais)
+MATH-106(f) Analyse II
+PHYS-106(en) Physique générale : thermodynamique (anglais)
+PHYS-106(i) Physique générale : thermodynamique
+CH-406 Analysis of ancient materials and their degradation
+CH-415 Chemistry of small biological molecules
+CH-421 Catalysis for energy storage
+CH-422 Catalyst design for synthesis
+CH-424 Supramolecular chemistry
+CH-426 Artificial photosynthesis
+CH-432 Structure and reactivity
+CH-438 Total synthesis of natural products
+CH-443 Photochemistry II
+CH-444 Electronic spectroscopy
+CH-450 Solid state chemistry and energy applications
+CH-452 Computational methods in molecular quantum mechanics
+CH-491 Project in molecular sciences Ib
+CH-492 Project in molecular sciences Ia
+CH-590 Project in molecular sciences II
+CH-599 Projet de master en chimie moléculaire et biologique
+EE-515 Fundamentals of biosensors and electronic biochips
+ENG-433 Chimie des denrées alimentaires
+MSE-437 Polymer chemistry and macromolecular engineering
+CH-401 Advanced NMR and imaging
+CH-403 Mass spectrometry
+CH-410 Morphological and chemical analyses of materials
+CH-411 Cellular signalling
+CH-412 Chemical biology
+CH-413 Nanobiotechnology and biophysics
+CH-414 Pharmacological chemistry
+CH-419 Protein mass spectrometry and proteomics
+CH-420 Understanding advanced molecular simulation
+CH-427 Chemistry of f elements
+CH-431 Physical and computational organic chemistry
+CH-435 Catalytic asymmetric reactions in organic chemistry
+CH-447 Advanced materials for photovoltaics and lighting
+CH-448 Photomedicine
+CH-453 Molecular quantum dynamics
+CH-491 Project in molecular sciences Ib
+CH-492 Project in molecular sciences Ia
+CH-590 Project in molecular sciences II
+CH-599 Projet de master en chimie moléculaire et biologique
+ENG-430 Risk management
+ENG-435 Chemistry of food processes
+MSE-431 Physical chemistry of polymeric materials
+MSE-477 Nanomaterials
+MSE-486 Organic electronic materials - synthesis, applications, properties
+BIOENG-430 Selected topics in life sciences
+BIOENG-437 Pharmaceutical biotechnology
+CH-421 Catalysis for energy storage
+ChE-402 Advanced diffusional separation processes
+ChE-403 Chemical engineering of heterogenous reactions
+ChE-407 Electrochemical engineering
+ChE-409 Chemical engineering lab & project
+ChE-410 Catalysis for emission control and energy processes
+ChE-411 Principles and applications of systems biology
+ChE-413 Chemical engineering product design
+ChE-451 Process development I
+ChE-596 Stage d'ingénieur (master en Génie chimique et Biotechnologie)
+ChE-599 Projet de master en génie chimique et biotechnologie
+ENG-431 Safety of chemical processes
+ENG-433 Chimie des denrées alimentaires
+MSE-437 Polymer chemistry and macromolecular engineering
+BIOENG-433 Biotechnology lab (for CGC)
+BIOENG-442 Biomaterials
+CH-413 Nanobiotechnology and biophysics
+ChE-408 Process intensification and green chemistry
+ChE-414 Thermodynamics of energy conversion and storage
+ChE-430 Nanomaterials for chemical engineering application
+ChE-437 Bioprocesses and downstream processing
+ChE-452 Process development II
+ChE-459 Process development project
+ChE-596 Stage d'ingénieur (master en Génie chimique et Biotechnologie)
+ChE-599 Projet de master en génie chimique et biotechnologie
+ENG-430 Risk management
+ENG-435 Chemistry of food processes
+ENG-436 Food biotechnology
+ME-454 Modelling and optimization of energy systems
+MSE-431 Physical chemistry of polymeric materials
+AR-465 Habitat et développement urbain
+CH-421 Catalysis for energy storage
+CIVIL-447 Modélisation des systèmes énergétiques
+CIVIL-457 Fundamentals of traffic operations and control
+CS-430 Intelligent agents
+ChE-451 Process development I
+EE-456 Hydropower plants: generating and pumping units
+EE-465 Industrial electronics I
+EE-466 Energy storage systems
+ENG-400 Water quality modeling
+ENG-420 Environmental transport phenomena
+ENG-440 Spatial statistics and analysis
+ENG-445 Building energetics
+ENG-466 Distributed intelligent systems
+ENG-472(a) Project in energy management and sustainability I
+ENG-474 Etudes d'impact
+ENV-402 Sanitary engineering in developing countries
+ENV-405 Water and wastewater treatment
+ENV-424 Water resources engineering
+ENV-445 Geomonitoring
+ENV-500 Solid waste engineering
+ENV-501 Material and energy flow analysis
+ENV-507 Fate and behaviour of environmental contaminants
+ENV-509 Applied wastewater engineering
+ENV-548 Sensor orientation
+ENV-593 Stage d'ingénieur crédité avec le PDM (master en Gestion de l'énergie et construction durable)
+ENV-595 Projet de master en gestion de l'énergie et construction durable
+MATH-463 Mathematical modelling of behavior
+ME-409 Energy conversion and renewable energy
+ME-419 Production management
+ME-421 System identification
+ME-425 Model predictive control
+ME-446 Two-phase flows and heat transfer
+ME-451 Advanced energetics
+ME-453 Hydraulic turbomachines
+ME-466 Instability
+ME-467 Turbulence
+ME-474 Numerical flow simulation
+ME-523 Commande non linéaire
+ME-551 Engines and fuel cells
+MGT-401 Strategic marketing & technology commercialization
+MGT-466 Negotiation techniques
+CIVIL-413 Urban hydraulic systems
+CIVIL-442 Planification intégrée des infrastructures d'énergie
+COM-413 Real-time networks
+CS-322 Introduction to database systems
+CS-423 Distributed information systems
+ChE-452 Process development II
+EE-470 Power systems dynamics
+EE-472 Smart grids technologies
+EE-565 Industrial electronics II
+EE-570 Power system restructuring and deregulation
+ENG-472(b) Project in energy management and sustainability II
+ENV-400 Air pollution and climate change
+ENV-461 Sustainability assessment of urban systems
+ENV-504 Groundwater and soil remediation
+ENV-508 Analyse et management des risques industriels
+ENV-523 Hydrogeophysics
+ENV-593 Stage d'ingénieur crédité avec le PDM (master en Gestion de l'énergie et construction durable)
+ENV-595 Projet de master en gestion de l'énergie et construction durable
+ME-432 Fracture mechanics
+ME-444 Hydrodynamics
+ME-454 Modelling and optimization of energy systems
+ME-459 Thermal power cycles and heat pump systems
+ME-524 Advanced control systems
+MICRO-510 Commande embarquée de moteurs
+MICRO-565 Fundamentals & processes for photovoltaic devices
+MICRO-566 Large-area electronics: devices and materials
+MICRO-570 Advanced machine learning
+CIVIL-122 Structures I
+CIVIL-223 Mécanique des structures (pour GC)
+CIVIL-225 Mécanique des milieux continus (pour GC)
+CIVIL-234 Structures en béton
+CIVIL-237 Sécurité et fiabilité
+CIVIL-308 Mécanique des roches et ouvrages souterrains
+CIVIL-331 Dimensionnement des constructions en bois
+CIVIL-340 Etude et analyse des systèmes énergétiques
+CIVIL-351 Transportation systems engineering
+CIVIL-402 Geomechanics
+CIVIL-403 Géologie de la construction et de l'environnement
+CIVIL-406 Voies de circulation
+CIVIL-410 Hydraulique fluviale et aménagement de cours d'eau
+CIVIL-411 Barrages et ouvrages hydrauliques annexes
+CIVIL-412 Ouvrages hydrauliques et aménagements hydroélectriques
+CIVIL-420 Dynamique des structures
+CIVIL-429 Reservoir geo-mechanics engineering
+CIVIL-430 Ponts en béton
+CIVIL-436 Structures existantes, bases
+CIVIL-438 Analyse et gestion de risques
+CIVIL-443 Advanced composites in engineering structures
+CIVIL-447 Modélisation des systèmes énergétiques
+CIVIL-449 Nonlinear analysis of structures
+CIVIL-451 Villes et transports
+CIVIL-452 Exploitation ferroviaire
+CIVIL-457 Fundamentals of traffic operations and control
+CIVIL-458 Economie des réseaux d'infrastructures
+CIVIL-474 UE génie civil: Construction durable
+CIVIL-490 Projet de construction
+CIVIL-491 Projet de systèmes civils
+CIVIL-492 Laboratoire GC
+CIVIL-493 Projet interdisciplinaire à option
+CIVIL-523 Advanced methods in computational solid mechanics
+CIVIL-525 Structures en béton, chapitres choisis
+CIVIL-526 Structures en métal, chapitres choisis
+CIVIL-527 Selected topics in mechanics of solids and structures
+CIVIL-532 Matériaux et structures
+CIVIL-597 Stage d'ingénieur crédité avec le PDM (master en Génie civil)
+CIVIL-598 Pré-étude projet de master
+CIVIL-599 Projet de master en génie civil
+CS-119(h) Information, calcul, communication
+ENG-267 Méthodes quantitatives I
+ENG-274 Programmation Matlab
+ENG-445 Building energetics
+ENG-470 Droit de la construction pour ingénieurs I
+ENG-474 Etudes d'impact
+ENV-221 Hydrology for engineer
+ENV-342 Système d'Information Géographique (SIG)
+ENV-418 Eco-morphologie fluviale
+MATH-101(a) Analyse I
+MATH-101(de) Analyse I (allemand)
+MATH-101(en) Analyse I (anglais)
+MATH-111(a) Algèbre linéaire
+MATH-111(en) Algèbre linéaire (anglais)
+MATH-111(pi) Algèbre linéaire (cours pilote)
+MATH-203(b) Analyse III
+MATH-234(a) Probabilités et statistique
+MATH-251(a) Numerical analysis
+MATH-265 Introduction à l'optimisation et à la recherche opérationnelle
+MATH-458 Programming concepts in scientific computing
+MGT-427 Management de projet et analyse du risque
+MSE-270 Matériaux II
+PENS-490 Projet ENAC
+PENS-491 Summer workshop
+PHYS-101(a) Physique générale : mécanique
+PHYS-101(de) Physique générale : mécanique (allemand)
+PHYS-101(en) Physique générale : mécanique (anglais)
+PHYS-201(e) General physics: electromagnetism
+AR-535 Structures complexes
+CIVIL-123 Structures II
+CIVIL-124 Statique I
+CIVIL-203 Mécanique des sols et écoulements souterrains
+CIVIL-210 Mécanique des fluides (pour GC)
+CIVIL-224 Statique II
+CIVIL-235 Structures en métal
+CIVIL-260 Informatique (pour GC)
+CIVIL-306 Ouvrages géotechniques
+CIVIL-307 Représentation numérique / BIM
+CIVIL-312 Ouvrages et aménagements hydrauliques
+CIVIL-321 Modélisation numérique des solides et structures
+CIVIL-330 Conception des ponts
+CIVIL-350 Conception et gestion des systèmes de transport
+CIVIL-369 Structural stability
+CIVIL-390 Projet GC
+CIVIL-404 Travaux souterrains
+CIVIL-413 Urban hydraulic systems
+CIVIL-414 Advanced design of concrete structures
+CIVIL-428 Engineering geology for geo-energy
+CIVIL-433 Conception des constructions en bois
+CIVIL-434 Structure et architecture
+CIVIL-435 Advanced steel design
+CIVIL-437 Structures existantes, chapitres choisis
+CIVIL-441 Economie hydraulique
+CIVIL-442 Planification intégrée des infrastructures d'énergie
+CIVIL-444 Energy geostructures
+CIVIL-448 Geophysics for engineers
+CIVIL-450 Thermodynamics of comfort in buildings
+CIVIL-453 Systèmes de transports
+CIVIL-455 Gestion de la maintenance des infrastructures
+CIVIL-456 Développements en économie des transports
+CIVIL-459 Data and artificial intelligence for transportation
+CIVIL-460 Indoor Air Quality and Ventilation
+CIVIL-476 Esthétique des ouvrages de génie civil
+CIVIL-490 Projet de construction
+CIVIL-491 Projet de systèmes civils
+CIVIL-492 Laboratoire GC
+CIVIL-493 Projet interdisciplinaire à option
+CIVIL-515 Ondes de crue et de rupture de barrage
+CIVIL-522 Seismic engineering
+CIVIL-530 Slope stability
+CIVIL-557 Decision-aid methodologies in transportation
+CIVIL-597 Stage d'ingénieur crédité avec le PDM (master en Génie civil)
+CIVIL-599 Projet de master en génie civil
+ENG-366 Signals, instruments, and systems
+ENG-471 Droit de la construction pour ingénieurs II
+ENV-241 Acquisition de données pour l'environnement
+ENV-508 Analyse et management des risques industriels
+MATH-106(a) Analyse II
+MATH-106(en) Analyse II (anglais)
+MATH-123(b) Géométrie
+MATH-207(d) Analyse IV
+MSE-171 Matériaux
+MSE-271 Matériaux II TP
+PENS-490 Projet ENAC
+PHYS-106(a) Physique générale : thermodynamique
+PHYS-106(en) Physique générale : thermodynamique (anglais)
+EE-106 Sciences et technologies de l'électricité
+EE-280 Electronique
+EE-382 Machines électriques (pour GM)
+MATH-101(c) Analyse I
+MATH-101(de) Analyse I (allemand)
+MATH-101(en) Analyse I (anglais)
+MATH-111(c) Algèbre linéaire
+MATH-111(en) Algèbre linéaire (anglais)
+MATH-111(pi) Algèbre linéaire (cours pilote)
+MATH-202(c) Analyse III
+MATH-234(b) Probabilités et statistique
+MATH-265 Introduction à l'optimisation et à la recherche opérationnelle
+ME-101 Construction mécanique I (pour GM)
+ME-232 Mécanique des structures (pour GM)
+ME-251 Thermodynamics and energetics I
+ME-302 Mechanical design principles
+ME-321 Control systems + TP
+ME-332 Mécanique vibratoire
+ME-344 Incompressible fluid mechanics
+ME-372 Méthode des éléments finis
+ME-401 Projet Génie mécanique I
+ME-402 Projet Génie mécanique II
+ME-403 Applied mechanical design
+ME-410 Mechanical product design and development
+ME-412 Experimental methods in engineering mechanics
+ME-413 Introduction to additive manufacturing
+ME-416 Fundamentals of computer aided manufacturing
+ME-419 Production management
+ME-421 System identification
+ME-422 Multivariable control
+ME-425 Model predictive control
+ME-426 Micro/Nanomechanical devices
+ME-427 Networked control systems
+ME-435 Aéroélasticité et interaction fluide-structure
+ME-445 Aerodynamics
+ME-446 Two-phase flows and heat transfer
+ME-451 Advanced energetics
+ME-453 Hydraulic turbomachines
+ME-455 Turbomachines thermiques
+ME-462 Cavitation et phénomènes d'interface
+ME-466 Instability
+ME-467 Turbulence
+ME-474 Numerical flow simulation
+ME-482 Biomechanics of the musculoskeletal system
+ME-523 Commande non linéaire
+ME-551 Engines and fuel cells
+ME-597 Stage d'ingénieur crédité avec le PDM (master en Génie mécanique)
+ME-599 Projet de master en génie mécanique
+MICRO-450 Bases de la robotique
+MSE-101(a) Matériaux: de la chimie aux propriétés
+MSE-236 Métaux et alliages + TP
+MSE-340 Composites polymères + TP
+PHYS-101(d) Physique générale : mécanique
+PHYS-101(de) Physique générale : mécanique (allemand)
+PHYS-101(en) Physique générale : mécanique (anglais)
+PHYS-201(b) Physique générale : électromagnétisme
+CS-119(a) Information, calcul, communication
+MATH-106(b) Analyse II
+MATH-106(en) Analyse II (anglais)
+MATH-207(c) Analyse IV
+MATH-251(d) Analyse numérique
+ME-102 Construction mécanique II (pour GM)
+ME-104 Introduction to structural mechanics
+ME-201 Continuum mechanics
+ME-202 Systèmes mécaniques
+ME-212 Procédés de production
+ME-221 Dynamical systems
+ME-271 Écoulement des fluides
+ME-301 Techniques de mesure
+ME-303 Microinformatique (pour GM)
+ME-311 Dynamique des systèmes mécaniques
+ME-312 Conception pour X
+ME-314 Projet d'ingénierie simultanée
+ME-324 Commande numérique des systèmes dynamiques
+ME-331 Solid mechanics
+ME-341 Heat and mass transfer
+ME-342 Introduction aux turbomachines
+ME-343 Mécanique des fluides compressibles
+ME-351 Thermodynamique et énergétique II
+ME-371 Méthodes de discrétisation en fluides
+ME-373 Modélisation et simulation par éléments finis
+ME-380 Méthodes expérimentales en biomécanique
+ME-401 Projet Génie mécanique I
+ME-402 Projet Génie mécanique II
+ME-414 Computational multi-scale modeling of solids
+ME-418 Conception mécanique intégrée
+ME-424 Systèmes mécatroniques
+ME-432 Fracture mechanics
+ME-436 Micro/Nano robotics
+ME-443 Hydrodynamique acoustique
+ME-444 Hydrodynamics
+ME-454 Modelling and optimization of energy systems
+ME-459 Thermal power cycles and heat pump systems
+ME-460 Renewable energy (for ME)
+ME-464 Introduction to nuclear engineering
+ME-465 Advanced heat transfer
+ME-473 Dynamique numérique des solides et des structures
+ME-475 Multi-body simulation
+ME-476 Particle-based methods
+ME-481 Biomechanics of the cardiovascular system
+ME-484 Numerical methods in biomechanics
+ME-498 Continuous improvement of manufacturing systems
+ME-516 Lifecycle performance of product systems
+ME-524 Advanced control systems
+ME-597 Stage d'ingénieur crédité avec le PDM (master en Génie mécanique)
+ME-599 Projet de master en génie mécanique
+MICRO-413 Advanced additive manufacturing technologies
+MICRO-451 Robotique industrielle et appliquée
+PHYS-106(d) Physique générale : thermodynamique
+PHYS-106(en) Physique générale : thermodynamique (anglais)
+PHYS-207(c) Physique générale : quantique
+BIO-205 Cellular and molecular biology I
+BIO-376 Physiologie par systèmes I
+COM-404 Information theory and coding
+COM-407 TCP/IP networking
+COM-480 Data visualization
+CS-119(c) Information, calcul, communication
+CS-208 Computer architecture
+CS-401 Applied data analysis
+CS-433 Machine learning
+CS-471 Advanced multiprocessor architecture
+CS-472 Design technologies for integrated systems
+CS-473 Embedded systems
+EE-100 Sciences et technologies de l'électricité
+EE-200 Electromagnétisme I : lignes et ondes
+EE-202(a) Electronique I
+EE-204 Circuits et systèmes I
+EE-206 Measuring systems
+EE-310 Systèmes embarqués microprogrammés
+EE-320 Circuits intégrés I
+EE-331 Circuits et systèmes électroniques I
+EE-334 Conception de systèmes numériques pour EL
+EE-345 Rayonnement et antennes
+EE-348 Electroacoustique
+EE-350 Traitement des signaux
+EE-360 Conversion d'énergie
+EE-370 Réseaux électriques
+EE-371 Distribution de l'énergie électrique
+EE-423 Low power electronics
+EE-425 HF and VHF circuits and techniques I
+EE-429 Fundamentals of VLSI design
+EE-432 Hardware systems modeling I
+EE-442 Wireless receivers: algorithms and architectures
+EE-445 Microwaves
+EE-456 Hydropower plants: generating and pumping units
+EE-465 Industrial electronics I
+EE-466 Energy storage systems
+EE-477 Multivariable control and coordination systems
+EE-490(a) Lab in acoustics
+EE-490(b) Lab in EDA based design
+EE-490(d) Lab in microelectronics
+EE-490(e) Lab in microwaves
+EE-490(g) Lab on app development for tablets and smartphones
+EE-491 Project in electrical engineering
+EE-492(a) Project in microelectronics
+EE-492(b) Project in electronic devices
+EE-492(c) Project in bioelectronics
+EE-492(d) Project in internet of things (IoT)
+EE-492(e) Project in data science and systems
+EE-492(f) Project in signal, image, video and communication
+EE-492(g) Project in wireless and photonics C&S
+EE-492(h) Project in smart grids technologies
+EE-512 Biomedical signal processing
+EE-515 Fundamentals of biosensors and electronic biochips
+EE-517 Bio-nano-chip design
+EE-519 Bioelectronics and biomedical microelectronics
+EE-530 Test of VLSI systems
+EE-532 Integrated circuits technology
+EE-535 Nanoelectronics
+EE-536 Physical models for micro and nanosystems
+EE-539 Electrical filters
+EE-540 Optical communications
+EE-548 Audio
+EE-550 Image and video processing
+EE-554 Automatic speech processing
+EE-555 Systems and architectures for signal processing
+EE-557 Semiconductor devices I
+EE-558 A network tour of data science
+EE-575 Wave propagation along transmission lines
+EE-594 Smart sensors for IoT
+EE-596(a) Stage d'ingénieur (master en Génie électrique et électronique)
+EE-597 Stage d'ingénieur crédité avec le PDM (master en Génie électrique et électronique)
+EE-598 Advanced lab in electrical engineering
+EE-599 Projet de master en génie électrique et électronique
+ENG-209 Programmation et conception orientées objets
+ENG-466 Distributed intelligent systems
+MATH-101(de) Analyse I (allemand)
+MATH-101(en) Analyse I (anglais)
+MATH-101(g) Analyse I
+MATH-111(en) Algèbre linéaire (anglais)
+MATH-111(g) Algèbre linéaire
+MATH-111(pi) Algèbre linéaire (cours pilote)
+MATH-202(c) Analyse III
+MATH-251(b) Analyse numérique
+MATH-413 Statistics for data science
+ME-325 Automatique + TP
+ME-409 Energy conversion and renewable energy
+ME-425 Model predictive control
+ME-427 Networked control systems
+MGT-418 Convex optimization
+MICRO-420 Selected topics in advanced optics
+MICRO-422 Lasers: theory and modern applications
+MICRO-455 Applied machine learning
+MICRO-514 Flexible bioelectronics
+MICRO-523 Optical detectors
+MICRO-560 BioMEMS
+MICRO-561 Biomicroscopy I
+MICRO-567 Optical waves propagation
+MICRO-568 Seminar in physiology and instrumentation
+PENS-491 Summer workshop
+PHYS-101(b) Physique générale : mécanique (STI I)
+PHYS-101(de) Physique générale : mécanique (allemand)
+PHYS-101(en) Physique générale : mécanique (anglais)
+PHYS-201(d) General physics: electromagnetism
+PHYS-433 Semiconductor physics and light-matter interaction
+PHYS-449 Optique III
+PHYS-453 Quantum electrodynamics and quantum optics
+BIO-465 Biological modeling of neural networks
+BIOENG-448 Fundamentals of neuroengineering
+COM-112(a) Programmation orientée projet
+COM-405 Mobile networks
+CS-209 Architecture des systems-on-chip
+CS-341 Introduction to computer graphics
+CS-413 Computational photography
+CS-423 Distributed information systems
+CS-470 Advanced computer architecture
+CS-476 Real-time embedded systems
+CS-487 Industrial automation
+CS-550 Synthesis, analysis and verification
+EE-102 Systèmes logiques (pour EL)
+EE-201 Electromagnétisme II : calcul des champs
+EE-203(a) Electronique II
+EE-205 Circuits and systems II
+EE-207 Measuring systems lab
+EE-208 Microcontrôleurs et systèmes numériques
+EE-330 IC design II
+EE-332 Circuits et systèmes électroniques II
+EE-333 Dispositifs micro- nanoélectroniques
+EE-340 Introduction à la photonique
+EE-342 Systèmes de télécommunications
+EE-361 Machines électriques (pour EL)
+EE-365 Power electronics
+EE-395 TP en technologies de l'information
+EE-396 TP en conversion d'énergie
+EE-397 TP de conception de systèmes numériques
+EE-399 Projet d'électricité
+EE-422 Analog circuits design
+EE-431 Advanced VLSI design
+EE-433 Hardware systems modeling II
+EE-440 Photonic systems and technology
+EE-451 Image analysis and pattern recognition
+EE-470 Power systems dynamics
+EE-472 Smart grids technologies
+EE-490(f) Lab in signal and image processing
+EE-490(h) Lab in data science
+EE-491 Project in electrical engineering
+EE-492(a) Project in microelectronics
+EE-492(b) Project in electronic devices
+EE-492(c) Project in bioelectronics
+EE-492(d) Project in internet of things (IoT)
+EE-492(e) Project in data science and systems
+EE-492(f) Project in signal, image, video and communication
+EE-492(g) Project in wireless and photonics C&S
+EE-492(h) Project in smart grids technologies
+EE-493 Transdisciplinary project
+EE-511 Sensors in medical instrumentation
+EE-514 Brain computer interaction
+EE-518 Analog circuits for biochip
+EE-525 HF and VHF circuits and techniques II
+EE-543 Advanced wireless receivers
+EE-552 Media security
+EE-559 Deep learning
+EE-560 Large scale machine learning
+EE-565 Industrial electronics II
+EE-567 Semiconductor devices II
+EE-570 Power system restructuring and deregulation
+EE-576 Electromagnetic compatibility
+EE-585 Space mission design and operations
+EE-588 Advanced lab in electrical energy systems
+EE-593 Social media
+EE-596(a) Stage d'ingénieur (master en Génie électrique et électronique)
+EE-597 Stage d'ingénieur crédité avec le PDM (master en Génie électrique et électronique)
+EE-598 Advanced lab in electrical engineering
+EE-599 Projet de master en génie électrique et électronique
+MATH-106(b) Analyse II
+MATH-106(en) Analyse II (anglais)
+MATH-207(c) Analyse IV
+MATH-234(c) Probabilités et statistique
+MATH-261 Discrete optimization
+ME-105 Introduction à la conception mécanique
+MGT-483 Optimal decision making
+MICRO-421 Imaging optics
+MICRO-423 Optics laboratories I
+MICRO-504 Photonic micro- and nanosystems
+MICRO-562 Biomicroscopy II
+MICRO-565 Fundamentals & processes for photovoltaic devices
+MSE-101(b) Matériaux: de la chimie aux propriétés
+PHYS-106(b) Physique générale : thermodynamique
+PHYS-106(en) Physique générale : thermodynamique (anglais)
+PHYS-207(b) Physique générale : quantique
+PHYS-434 Physics of photonic semiconductor devices
+PHYS-438 Fundamentals of biomedical imaging
+PHYS-454 Quantum optics and quantum information
+EE-423 Low power electronics
+EE-425 HF and VHF circuits and techniques I
+EE-428 Introduction to VLSI Design
+EE-434 Hardware systems modeling
+EE-490(b) Lab in EDA based design
+EE-530 Test of VLSI systems
+EE-535 Nanoelectronics
+EE-536 Physical models for micro and nanosystems
+EE-597(a) Stage d'ingénieur crédité avec le PDM (master en Génie électrique et électronique)
+MICRO-523 Optical detectors
+EE-597(a) Stage d'ingénieur crédité avec le PDM (master en Génie électrique et électronique)
+EE-599(a) Projet de master en génie électrique et électronique
+EE-599(b) Projet de master MNIS pour étudiants de Grenoble
+EE-599(c) Projet de master MNIS pour étudiants de Turin
+AR-407 Visions et Utopies
+AR-471 UE J : Territoire et paysage
+AR-484 Introduction au BIM (Building Information Modeling)
+AR-521 De la structure à l'ornement
+COM-406 Information theory and signal processing
+COM-415 Audio and acoustic signal processing
+COM-480 Data visualization
+CS-401 Applied data analysis
+CS-411 Digital education & learning analytics
+CS-431 Introduction to natural language processing
+CS-433 Machine learning
+CS-446 Digital 3D geometry processing
+DH-402 Quantification of user experience
+DH-405 Foundation of Digital Humanities
+DH-406 Signal processing and machine learning for DH
+DH-490 Stage d'ingénieur (master en Humanités digitales)
+EE-550 Image and video processing
+EE-554 Automatic speech processing
+ENG-440 Spatial statistics and analysis
+ENV-444 Exploratory data analysis and geovisualization
+MATH-341 Linear models
+MGT-401 Strategic marketing & technology commercialization
+MGT-409 D. Thinking: real problems, human-focused solutions
+MGT-414 Technology & innovation strategy
+MICRO-511 Image processing I
+AR-433 UE H : Graphie
+AR-435 UE R : Introduction au BIM (Building Information Modeling)
+CIVIL-557 Decision-aid methodologies in transportation
+CS-413 Computational photography
+CS-422 Database systems
+CS-423 Distributed information systems
+CS-440 Advanced computer graphics
+CS-444 Virtual reality
+CS-486 Human computer interaction
+DH-401 Digital musicology
+DH-403 Measuring literature
+DH-404 Cultural data sculpting
+DH-490 Stage d'ingénieur (master en Humanités digitales)
+EE-727 Computational Social Media
+MICRO-512 Image processing II
+BIO-105 Cellular biology and biochemistry for engineers
+CH-361 Chimie générale avancée (à choix)
+COM-208 Computer networks
+COM-300 Modèles stochastiques pour les communications
+COM-301 Computer security
+COM-309 Traitement quantique de l'information
+COM-401 Cryptography and security
+COM-404 Information theory and coding
+COM-407 TCP/IP networking
+COM-415 Audio and acoustic signal processing
+COM-430 Modern digital communications: a hands-on approach
+COM-480 Data visualization
+COM-502 Dynamical system theory for engineers
+COM-514 Mathematical foundations of signal processing
+COM-516 Markov chains and algorithmic applications
+CS-101 Advanced information, computation, communication I
+CS-107 Introduction à la programmation
+CS-208 Computer architecture
+CS-210 Functional programming
+CS-234 Technologies of societal self-organization
+CS-250 Algorithms
+CS-305 Software engineering
+CS-305(a) Software development project
+CS-307 Introduction to multiprocessor architecture
+CS-320 Computer language processing
+CS-321 Informatique du temps réel
+CS-328 Numerical methods for visual computing
+CS-398 Projet en informatique I
+CS-401 Applied data analysis
+CS-411 Digital education & learning analytics
+CS-430 Intelligent agents
+CS-431 Introduction to natural language processing
+CS-433 Machine learning
+CS-438 Decentralized systems engineering
+CS-446 Digital 3D geometry processing
+CS-451 Distributed algorithms
+CS-452 Foundations of software
+CS-453 Concurrent algorithms
+CS-455 Topics in theoretical computer science
+CS-471 Advanced multiprocessor architecture
+CS-472 Design technologies for integrated systems
+CS-473 Embedded systems
+CS-489 Experience design
+CS-498 Projet en informatique II
+CS-522 Principles of computer systems
+CS-523 Advanced topics on privacy enhancing technologies
+CS-524 Computational complexity
+CS-525 Foundations and tools for processing tree structured data
+CS-595 Stage d'ingénieur crédité avec le PDM (master en Informatique)
+CS-596 Optional project in computer science
+CS-599 Projet de master en informatique
+EE-200 Electromagnétisme I : lignes et ondes
+EE-202(b) Electronique I
+EE-203(b) Electronique II
+EE-204 Circuits et systèmes I
+EE-512 Biomedical signal processing
+EE-550 Image and video processing
+EE-554 Automatic speech processing
+ENG-466 Distributed intelligent systems
+MATH-101(de) Analyse I (allemand)
+MATH-101(e) Analyse I
+MATH-101(en) Analyse I (anglais)
+MATH-111(e) Algèbre linéaire
+MATH-111(en) Algèbre linéaire (anglais)
+MATH-111(pi) Algèbre linéaire (cours pilote)
+MATH-203(c) Analyse III
+MATH-310 Algebra
+MATH-467 Probabilistic methods
+MATH-483 Gödel and recursivity
+MATH-489 Number theory in cryptography
+MICRO-511 Image processing I
+PHYS-101(c) Physique générale : mécanique
+PHYS-101(de) Physique générale : mécanique (allemand)
+PHYS-101(en) Physique générale : mécanique (anglais)
+PHYS-114 General physics: electromagnetism
+BIO-109 Introduction aux sciences du vivant (pour IC)
+BIO-465 Biological modeling of neural networks
+COM-102 Advanced information, computation, communication II
+COM-302 Principles of digital communications
+COM-303 Signal processing for communications
+COM-308 Internet analytics
+COM-402 Information security and privacy
+COM-405 Mobile networks
+COM-413 Real-time networks
+COM-417 Advanced probability and applications
+COM-500 Statistical signal and data processing through applications
+COM-503 Performance evaluation
+COM-512 Networks out of control
+CS-108 Pratique de la programmation orientée-objet
+CS-173 Conception de systèmes numériques
+CS-206 Parallelism and concurrency
+CS-207 Programmation orientée système
+CS-207(a) Projet programmation système
+CS-209 Architecture des systems-on-chip
+CS-211 Introduction à l'informatique visuelle
+CS-233 Introduction to machine learning
+CS-251 Theory of computation
+CS-308 Calcul quantique
+CS-309 Projet de systems-on-chip
+CS-322 Introduction to database systems
+CS-330 Intelligence artificielle
+CS-341 Introduction to computer graphics
+CS-398 Projet en informatique I
+CS-410 Technology ventures in IC
+CS-413 Computational photography
+CS-420 Advanced compiler construction
+CS-422 Database systems
+CS-423 Distributed information systems
+CS-435 Analytic algorithms
+CS-439 Optimization for machine learning
+CS-440 Advanced computer graphics
+CS-442 Computer vision
+CS-444 Virtual reality
+CS-448 Sublinear algorithms for big data analysis
+CS-450 Advanced algorithms
+CS-456 Artificial neural networks
+CS-470 Advanced computer architecture
+CS-476 Real-time embedded systems
+CS-486 Human computer interaction
+CS-487 Industrial automation
+CS-490 Business design for IT services
+CS-491 Enterprise and service-oriented architecture
+CS-498 Projet en informatique II
+CS-526 Learning theory
+CS-595 Stage d'ingénieur crédité avec le PDM (master en Informatique)
+CS-596 Optional project in computer science
+CS-599 Projet de master en informatique
+EE-201 Electromagnétisme II : calcul des champs
+EE-205 Circuits and systems II
+EE-381 Electronique III
+EE-472 Smart grids technologies
+EE-511 Sensors in medical instrumentation
+EE-593 Social media
+MATH-106(e) Analyse II
+MATH-106(en) Analyse II (anglais)
+MATH-207(d) Analyse IV
+MATH-232 Probabilités et statistique
+MATH-318 Set theory
+MATH-409 Algebraic curves and cryptography
+MATH-493 Applied biostatistics
+MICRO-512 Image processing II
+COM-401 Cryptography and security
+CS-401 Applied data analysis
+CS-430 Intelligent agents
+CS-433 Machine learning
+FIN-401 Introduction to finance
+FIN-403 Econometrics
+FIN-406 Macrofinance
+FIN-410 Real options and financial structuring
+FIN-411 Accounting for finance
+FIN-413 Financial applications of blockchains and distributed ledgers
+FIN-414 Optimization methods
+FIN-415 Stochastic calculus
+FIN-416 Interest rate and credit risk models
+FIN-417 Quantitative risk management
+FIN-472 Computational finance
+FIN-503 Advanced derivatives
+FIN-522 Venture capital
+FIN-523 Global business environment
+FIN-525 Financial big data
+FIN-598 Engineering internship credited with master project (master in Financial Engineering)
+FIN-599 Projet de master en ingénierie financière
+MATH-351 Advanced numerical analysis
+MATH-447 Risk, rare events and extremes
+MATH-456 Numerical analysis and computational mathematics
+MATH-463 Mathematical modelling of behavior
+MGT-432 Data science for business
+MICRO-401 Machine learning programming
+MICRO-455 Applied machine learning
+COM-402 Information security and privacy
+FIN-404 Derivatives
+FIN-405 Investments
+FIN-407 Financial econometrics
+FIN-598 Engineering internship credited with master project (master in Financial Engineering)
+FIN-599 Projet de master en ingénierie financière
+MATH-342 Time series
+MATH-408 Modern regression methods
+MATH-450 Numerical integration of stochastic differential equations
+MATH-451 Numerical approximation of PDE's I
+MGT-415 Data science in practice
+MGT-431 Information: strategy & economics
+MICRO-570 Advanced machine learning
+CS-401 Applied data analysis
+CS-433 Machine learning
+EE-558 A network tour of data science
+FIN-522 Venture capital
+FIN-523 Global business environment
+MATH-413 Statistics for data science
+ME-419 Production management
+MGT-400 Corporate strategy
+MGT-401 Strategic marketing & technology commercialization
+MGT-408 Technology policy and the energy transition
+MGT-409 D. Thinking: real problems, human-focused solutions
+MGT-414 Technology & innovation strategy
+MGT-417 Value chain management in practice
+MGT-418 Convex optimization
+MGT-427 Management de projet et analyse du risque
+MGT-432 Data science for business
+MGT-439 Information technology & digital strategy
+MGT-454 Principles of microeconomics
+MGT-466 Negotiation techniques
+MGT-469 Intercultural presentation skills
+MGT-481 Financial & managerial accounting
+MGT-482 Principles of finance
+MGT-484 Applied probability & stochastic processes
+MGT-517 Entrepreneurship laboratory (e-lab)
+MGT-528 Operations: economics & strategy
+MGT-597 Engineering internship credited with master project (master in Management of Technology and Entrepreneurship)
+MGT-599 Projet de master en management de la technologie
+MGT-404 Economics of innovation and IP
+MGT-407 Economics of innovation & management in energy
+MGT-410 Applied corporate & industry analysis
+MGT-411 Innovation management
+MGT-412 Organizational behavior
+MGT-413 Entrepreneurship & new venture strategy
+MGT-415 Data science in practice
+MGT-416 Network analytics
+MGT-426 Logistique et analyse de la demande
+MGT-430 Quantitative systems modeling techniques
+MGT-431 Information: strategy & economics
+MGT-453 Industry dynamics, models & trends
+MGT-455 Practical business law
+MGT-468 Leading and managing in a global context
+MGT-483 Optimal decision making
+MGT-526 Supply chain management
+MGT-552 Corporate governance
+MGT-581 Introduction to econometrics
+MGT-597 Engineering internship credited with master project (master in Management of Technology and Entrepreneurship)
+MGT-599 Projet de master en management de la technologie
+CH-210 Biochimie I
+CS-119(d) Information, calcul, communication
+CS-250 Algorithms
+MATH-100(a) Analyse avancée I
+MATH-110(a) Algèbre linéaire avancée I
+MATH-120 Géométrie I
+MATH-200 Analyse III
+MATH-211 Théorie des groupes
+MATH-220 Espaces métriques et topologiques
+MATH-230 Probabilités
+MATH-260 Discrete mathematics
+MATH-301 Equations différentielles ordinaires
+MATH-302 Analyse fonctionnelle I
+MATH-303 Measure and integration
+MATH-305 Sobolev spaces and elliptic equations
+MATH-311 Rings and modules
+MATH-313 Introduction à la théorie analytique des nombres
+MATH-317 Galois theory
+MATH-322 Introduction to differentiable manifolds
+MATH-333 Chapitre choisi de géométrie : surfaces minimales
+MATH-341 Linear models
+MATH-343 Mathematical mechanical biology
+MATH-351 Advanced numerical analysis
+MATH-381 Logique mathématique
+MATH-397 Projet de Mathématiques (bachelor)
+MGT-454 Principles of microeconomics
+PHYS-101(de) Physique générale : mécanique (allemand)
+PHYS-101(en) Physique générale : mécanique (anglais)
+PHYS-101(f) Physique générale : mécanique
+CS-112(g) Programmation orientée objet
+MATH-105(a) Analyse avancée II
+MATH-115(a) Algèbre linéaire avancée II
+MATH-125 Géométrie II
+MATH-205 Analysis IV
+MATH-215 Rings and fields
+MATH-225 Topologie
+MATH-240 Statistique
+MATH-250 Analyse numérique
+MATH-261 Discrete optimization
+MATH-319 Algèbres de Lie
+MATH-323 Topologie algébrique
+MATH-330 Martingales et applications
+MATH-332 Stochastic processes
+MATH-335 Coxeter groups
+MATH-342 Time series
+MATH-360 Graph theory
+MATH-397 Projet de Mathématiques (bachelor)
+MATH-451 Numerical approximation of PDE's I
+MATH-482 Algebraic number theory
+PHYS-108 Physique générale : électromagnétisme
+PHYS-207(b) Physique générale : quantique
+FIN-472 Computational finance
+MATH-402 Combinatorial geometry
+MATH-403 Low-rank approximation techniques
+MATH-410 Riemann surfaces
+MATH-412 Statistical machine learning
+MATH-414 Stochastic simulations
+MATH-431 Théorie du calcul stochastique
+MATH-432 Probability theory
+MATH-434 Lattice models
+MATH-442 Statistical theory
+MATH-447 Risk, rare events and extremes
+MATH-449 Biostatistics
+MATH-452 Numerical integration of dynamical systems
+MATH-455 Combinatorial statistics
+MATH-457 Numerical approximation of PDE's II
+MATH-459 Numerical methods for conservation laws
+MATH-460 Combinatorial optimization
+MATH-461 Convexity
+MATH-463 Mathematical modelling of behavior
+MATH-464 TNT: Automorphic forms and L-functions
+MATH-465 Packing and covering
+MATH-467 Probabilistic methods
+MATH-475 Mathematical physiology
+MATH-483 Gödel and recursivity
+MATH-489 Number theory in cryptography
+MATH-492 Representation theory of semisimple lie algebras
+MATH-498 Projet de Mathématiques (master)
+MATH-596 Stage d'ingénieur (master en Ingénierie mathématique)
+MATH-597 Stage d'ingénieur crédité avec le PDM (master en Ingénierie mathématique)
+MATH-599 Projet de master en mathématiques
+MATH-318 Set theory
+MATH-404 Analyse fonctionnelle II
+MATH-405 Harmonic analysis
+MATH-408 Modern regression methods
+MATH-409 Algebraic curves and cryptography
+MATH-416 Analysis on groups
+MATH-422 Introduction to riemannian geometry
+MATH-423 Differential geometry of framed curves
+MATH-428 Introduction to algebraic geometry
+MATH-435 Bayesian computation
+MATH-436 Homotopical algebra
+MATH-441 Robust and nonparametric statistics
+MATH-444 Multivariate statistics
+MATH-450 Numerical integration of stochastic differential equations
+MATH-453 Computational linear algebra
+MATH-468 Numerical methods for saddle point problems
+MATH-469 Parabolic and hyperbolic PDE's
+MATH-470 Martingales in financial mathematics
+MATH-474 Statistics for genomic data analysis
+MATH-476 Optimal transport
+MATH-478 Dispersive PDEs
+MATH-479 Linear algebraic groups
+MATH-481 Mathematical modelling of DNA
+MATH-486 Statistical mechanics and Gibbs measures
+MATH-493 Applied biostatistics
+MATH-498 Projet de Mathématiques (master)
+MATH-596 Stage d'ingénieur (master en Ingénierie mathématique)
+MATH-597 Stage d'ingénieur crédité avec le PDM (master en Ingénierie mathématique)
+MATH-599 Projet de master en mathématiques
+FIN-472 Computational finance
+MATH-402 Combinatorial geometry
+MATH-403 Low-rank approximation techniques
+MATH-410 Riemann surfaces
+MATH-412 Statistical machine learning
+MATH-414 Stochastic simulations
+MATH-431 Théorie du calcul stochastique
+MATH-432 Probability theory
+MATH-434 Lattice models
+MATH-442 Statistical theory
+MATH-447 Risk, rare events and extremes
+MATH-449 Biostatistics
+MATH-452 Numerical integration of dynamical systems
+MATH-455 Combinatorial statistics
+MATH-457 Numerical approximation of PDE's II
+MATH-459 Numerical methods for conservation laws
+MATH-460 Combinatorial optimization
+MATH-461 Convexity
+MATH-463 Mathematical modelling of behavior
+MATH-464 TNT: Automorphic forms and L-functions
+MATH-465 Packing and covering
+MATH-467 Probabilistic methods
+MATH-475 Mathematical physiology
+MATH-483 Gödel and recursivity
+MATH-489 Number theory in cryptography
+MATH-492 Representation theory of semisimple lie algebras
+MATH-498 Projet de Mathématiques (master)
+MATH-599 Projet de master en mathématiques
+MATH-318 Set theory
+MATH-404 Analyse fonctionnelle II
+MATH-405 Harmonic analysis
+MATH-408 Modern regression methods
+MATH-409 Algebraic curves and cryptography
+MATH-416 Analysis on groups
+MATH-422 Introduction to riemannian geometry
+MATH-423 Differential geometry of framed curves
+MATH-428 Introduction to algebraic geometry
+MATH-435 Bayesian computation
+MATH-436 Homotopical algebra
+MATH-441 Robust and nonparametric statistics
+MATH-444 Multivariate statistics
+MATH-450 Numerical integration of stochastic differential equations
+MATH-453 Computational linear algebra
+MATH-468 Numerical methods for saddle point problems
+MATH-469 Parabolic and hyperbolic PDE's
+MATH-470 Martingales in financial mathematics
+MATH-474 Statistics for genomic data analysis
+MATH-476 Optimal transport
+MATH-478 Dispersive PDEs
+MATH-479 Linear algebraic groups
+MATH-481 Mathematical modelling of DNA
+MATH-486 Statistical mechanics and Gibbs measures
+MATH-493 Applied biostatistics
+MATH-498 Projet de Mathématiques (master)
+MATH-599 Projet de master en mathématiques
+FIN-472 Computational finance
+HEP-402 Apprentissage, développement et enseignement
+HEP-407 Didactique des mathématiques
+HEP-408 Relation pédagogique et climat de classe
+HEP-449 Stages semestriels
+HEP-450 Séminaire d'intégration
+MATH-412 Statistical machine learning
+MATH-414 Stochastic simulations
+MATH-431 Théorie du calcul stochastique
+MATH-432 Probability theory
+MATH-434 Lattice models
+MATH-442 Statistical theory
+MATH-447 Risk, rare events and extremes
+MATH-449 Biostatistics
+MATH-457 Numerical approximation of PDE's II
+MATH-459 Numerical methods for conservation laws
+MATH-461 Convexity
+MATH-463 Mathematical modelling of behavior
+MATH-464 TNT: Automorphic forms and L-functions
+MATH-467 Probabilistic methods
+MATH-475 Mathematical physiology
+MATH-483 Gödel and recursivity
+MATH-489 Number theory in cryptography
+MATH-498(c) Projet MA-HEP
+HEP-401 Altérités et intégrations
+HEP-403 Didactique des mathématiques au secondaire II
+HEP-404 Evaluations des apprentissages
+HEP-406 Systèmes éducatifs, organisations, acteurs, savoirs
+HEP-409 Le développement de l'adolescent
+HEP-449 Stages semestriels
+HEP-450 Séminaire d'intégration
+MATH-318 Set theory
+MATH-404 Analyse fonctionnelle II
+MATH-405 Harmonic analysis
+MATH-408 Modern regression methods
+MATH-416 Analysis on groups
+MATH-428 Introduction to algebraic geometry
+MATH-435 Bayesian computation
+MATH-444 Multivariate statistics
+MATH-450 Numerical integration of stochastic differential equations
+MATH-453 Computational linear algebra
+MATH-468 Numerical methods for saddle point problems
+MATH-469 Parabolic and hyperbolic PDE's
+MATH-470 Martingales in financial mathematics
+MATH-474 Statistics for genomic data analysis
+MATH-476 Optimal transport
+MATH-478 Dispersive PDEs
+MATH-481 Mathematical modelling of DNA
+MATH-486 Statistical mechanics and Gibbs measures
+MATH-498(c) Projet MA-HEP
+MATH-594 Projet de master EPFL-HEP
+CH-353 Introduction to electronic structure methods
+CH-452 Computational methods in molecular quantum mechanics
+CIVIL-523 Advanced methods in computational solid mechanics
+COM-406 Information theory and signal processing
+COM-502 Dynamical system theory for engineers
+COM-514 Mathematical foundations of signal processing
+CS-250 Algorithms
+CS-305 Software engineering
+CS-307 Introduction to multiprocessor architecture
+CS-401 Applied data analysis
+CS-433 Machine learning
+CS-446 Digital 3D geometry processing
+CS-471 Advanced multiprocessor architecture
+ChE-411 Principles and applications of systems biology
+ENG-400 Water quality modeling
+ENG-420 Environmental transport phenomena
+ENG-466 Distributed intelligent systems
+FIN-472 Computational finance
+MATH-351 Advanced numerical analysis
+MATH-403 Low-rank approximation techniques
+MATH-413 Statistics for data science
+MATH-414 Stochastic simulations
+MATH-452 Numerical integration of dynamical systems
+MATH-456 Numerical analysis and computational mathematics
+MATH-457 Numerical approximation of PDE's II
+MATH-458 Programming concepts in scientific computing
+MATH-459 Numerical methods for conservation laws
+MATH-463 Mathematical modelling of behavior
+MATH-591 Projet CSE I
+MATH-592 Projet CSE II
+MATH-595 Stage d'ingénieur (master en Sciences et ingénierie computationnelles)
+MATH-598 Projet de master en science et ingénierie computationelles
+ME-466 Instability
+ME-467 Turbulence
+ME-474 Numerical flow simulation
+MICRO-511 Image processing I
+PHYS-403 Computer simulation of physical systems I
+BIO-315 Biomolecular structure and mechanics
+BIO-465 Biological modeling of neural networks
+CH-351 Dynamique moléculaire et simulation Monte-Carlo
+CH-420 Understanding advanced molecular simulation
+CH-453 Molecular quantum dynamics
+COM-303 Signal processing for communications
+COM-402 Information security and privacy
+CS-439 Optimization for machine learning
+CS-449 Systems for data science
+CS-450 Advanced algorithms
+CS-456 Artificial neural networks
+EE-559 Deep learning
+MATH-450 Numerical integration of stochastic differential equations
+MATH-451 Numerical approximation of PDE's I
+MATH-453 Computational linear algebra
+MATH-454 Parallel and high-performance computing
+MATH-468 Numerical methods for saddle point problems
+MATH-481 Mathematical modelling of DNA
+MATH-591 Projet CSE I
+MATH-592 Projet CSE II
+MATH-595 Stage d'ingénieur (master en Sciences et ingénierie computationnelles)
+MATH-598 Projet de master en science et ingénierie computationelles
+ME-444 Hydrodynamics
+ME-476 Particle-based methods
+MICRO-512 Image processing II
+MSE-468 Atomistic and quantum simulations of materials
+PHYS-332 Computational physics III
+BIOENG-445 Biomedical optics
+CS-119(c) Information, calcul, communication
+CS-473 Embedded systems
+EE-100(B) Electrotechnique I
+EE-110 Systèmes logiques (pour MT)
+EE-202(a) Electronique I
+EE-320 Circuits intégrés I
+EE-331 Circuits et systèmes électroniques I
+EE-461 Transducteurs et entraînements intégrés
+EE-490(g) Lab on app development for tablets and smartphones
+EE-540 Optical communications
+EE-548 Audio
+EE-558 A network tour of data science
+EE-594 Smart sensors for IoT
+ENG-466 Distributed intelligent systems
+MATH-101(d) Analyse I
+MATH-101(de) Analyse I (allemand)
+MATH-101(en) Analyse I (anglais)
+MATH-111(d) Algèbre linéaire
+MATH-111(en) Algèbre linéaire (anglais)
+MATH-111(pi) Algèbre linéaire (cours pilote)
+MATH-203(a) Analyse III
+MATH-251(b) Analyse numérique
+ME-106 Construction mécanique I (pour MT)
+ME-325 Automatique + TP
+ME-413 Introduction to additive manufacturing
+ME-416 Fundamentals of computer aided manufacturing
+ME-421 System identification
+ME-425 Model predictive control
+ME-523 Commande non linéaire
+MGT-427 Management de projet et analyse du risque
+MICRO-310(a) Signaux et systèmes I (pour MT)
+MICRO-312 Composants semiconducteurs
+MICRO-313 Conversion électromécanique II
+MICRO-321 Ingénierie optique I
+MICRO-331 Technologie des microstructures I
+MICRO-332 TP en salle blanche (automne)
+MICRO-401 Machine learning programming
+MICRO-406 Products design & systems engineering
+MICRO-420 Selected topics in advanced optics
+MICRO-422 Lasers: theory and modern applications
+MICRO-424 Optics laboratories II
+MICRO-431 Materials and technology of microfabrication
+MICRO-432 Microelectronics
+MICRO-450 Bases de la robotique
+MICRO-452 Basics of mobile robotics
+MICRO-455 Applied machine learning
+MICRO-470 Scaling laws & simulations in micro & nanosystems
+MICRO-498 Projet microtechnique I
+MICRO-499 Projet microtechnique II
+MICRO-501 MEMS practicals I
+MICRO-507 Legged robots
+MICRO-511 Image processing I
+MICRO-514 Flexible bioelectronics
+MICRO-523 Optical detectors
+MICRO-560 BioMEMS
+MICRO-561 Biomicroscopy I
+MICRO-567 Optical waves propagation
+MICRO-597 Stage d'ingénieur crédité avec le PDM (master en Microtechnique)
+MICRO-599 Projet de master en microtechnique
+MSE-208 Matériaux microtechniques : polymères et céramiques
+PHYS-101(b) Physique générale : mécanique (STI I)
+PHYS-101(de) Physique générale : mécanique (allemand)
+PHYS-101(en) Physique générale : mécanique (anglais)
+PHYS-201(c) Physique générale : électromagnétisme
+PHYS-608 Nonlinear Optics
+BIO-443 Fundamentals of biophotonics
+CH-413 Nanobiotechnology and biophysics
+COM-112(a) Programmation orientée projet
+CS-432 Computational motor control
+EE-102(B) Electrotechnique II
+EE-203(a) Electronique II
+EE-380 Electronique, labo
+EE-440 Photonic systems and technology
+EE-511 Sensors in medical instrumentation
+EE-585 Space mission design and operations
+ENV-542 Advanced satellite positioning
+MATH-106(c) Analyse II
+MATH-106(en) Analyse II (anglais)
+MATH-207(a) Analyse IV
+MATH-234(c) Probabilités et statistique
+ME-107 Construction mécanique II (pour MT)
+ME-324 Commande numérique des systèmes dynamiques
+ME-417 Computer-aided engineering
+ME-524 Advanced control systems
+MICRO-210 Microcontrôleurs
+MICRO-213 Conversion électromécanique I
+MICRO-270 Chimie des surfaces
+MICRO-301 Physics of manufacturing
+MICRO-311(a) Signaux et systèmes II (pour MT)
+MICRO-314 Conversion électromécanique TP
+MICRO-315 Microinformatique (pour MT)
+MICRO-322 Ingénierie optique II
+MICRO-330 Capteurs
+MICRO-332 TP en salle blanche (automne)
+MICRO-413 Advanced additive manufacturing technologies
+MICRO-421 Imaging optics
+MICRO-423 Optics laboratories I
+MICRO-440 Techniques d'assemblage
+MICRO-443 Analyse de produits et systèmes
+MICRO-451 Robotique industrielle et appliquée
+MICRO-498 Projet microtechnique I
+MICRO-499 Projet microtechnique II
+MICRO-503 MEMS practicals II
+MICRO-504 Photonic micro- and nanosystems
+MICRO-505 Organic and printed electronics
+MICRO-510 Commande embarquée de moteurs
+MICRO-512 Image processing II
+MICRO-520 Laser microprocessing
+MICRO-530 Nanotechnology
+MICRO-534 Advanced MEMS & microsystems
+MICRO-553 Haptic human robot interfaces
+MICRO-562 Biomicroscopy II
+MICRO-565 Fundamentals & processes for photovoltaic devices
+MICRO-566 Large-area electronics: devices and materials
+MICRO-570 Advanced machine learning
+MICRO-597 Stage d'ingénieur crédité avec le PDM (master en Microtechnique)
+MICRO-599 Projet de master en microtechnique
+MSE-101(b) Matériaux: de la chimie aux propriétés
+MSE-207 Matériaux microtechniques : métaux
+PHYS-106(e) Physique générale : thermodynamique
+PHYS-106(en) Physique générale : thermodynamique (anglais)
+PHYS-207(b) Physique générale : quantique
+PHYS-434 Physics of photonic semiconductor devices
+BIOENG-486 Sensorimotor neuroprosthetics
+CS-430 Intelligent agents
+CS-473 Embedded systems
+EE-477 Multivariable control and coordination systems
+ENG-466 Distributed intelligent systems
+ENV-548 Sensor orientation
+ME-410 Mechanical product design and development
+ME-416 Fundamentals of computer aided manufacturing
+ME-419 Production management
+ME-421 System identification
+ME-425 Model predictive control
+ME-427 Networked control systems
+MICRO-401 Machine learning programming
+MICRO-452 Basics of mobile robotics
+MICRO-455 Applied machine learning
+MICRO-507 Legged robots
+MICRO-511 Image processing I
+MICRO-514 Flexible bioelectronics
+MICRO-597 Stage d'ingénieur crédité avec le PDM (master en Microtechnique)
+BIOENG-404 Analysis and modelling of locomotion
+BIOENG-442 Biomaterials
+BIOENG-448 Fundamentals of neuroengineering
+BIOENG-456 Controlling behavior in animals and robots
+COM-413 Real-time networks
+CS-432 Computational motor control
+CS-442 Computer vision
+CS-476 Real-time embedded systems
+CS-487 Industrial automation
+EE-451 Image analysis and pattern recognition
+EE-511 Sensors in medical instrumentation
+EE-514 Brain computer interaction
+ENV-542 Advanced satellite positioning
+ME-418 Conception mécanique intégrée
+ME-424 Systèmes mécatroniques
+ME-475 Multi-body simulation
+ME-484 Numerical methods in biomechanics
+ME-498 Continuous improvement of manufacturing systems
+ME-516 Lifecycle performance of product systems
+ME-524 Advanced control systems
+MGT-453 Industry dynamics, models & trends
+MGT-483 Optimal decision making
+MICRO-443 Analyse de produits et systèmes
+MICRO-451 Robotique industrielle et appliquée
+MICRO-453 Robotics practicals
+MICRO-505 Organic and printed electronics
+MICRO-510 Commande embarquée de moteurs
+MICRO-512 Image processing II
+MICRO-534 Advanced MEMS & microsystems
+MICRO-553 Haptic human robot interfaces
+MICRO-570 Advanced machine learning
+MICRO-597 Stage d'ingénieur crédité avec le PDM (master en Microtechnique)
+COM-208 Computer networks
+COM-301 Computer security
+COM-401 Cryptography and security
+COM-407 TCP/IP networking
+CS-101 Advanced information, computation, communication I
+CS-250 Algorithms
+MATH-310 Algebra
+COM-405 Mobile networks
+COM-501 Advanced cryptography
+COM-506 Student seminar: security protocols and applications
+CS-450 Advanced algorithms
+CS-470 Advanced computer architecture
+EE-431 Advanced VLSI design
+EE-552 Media security
+CS-401 Applied data analysis
+EE-423 Low power electronics
+EE-492(d) Project in internet of things (IoT)
+EE-515 Fundamentals of biosensors and electronic biochips
+EE-517 Bio-nano-chip design
+EE-519 Bioelectronics and biomedical microelectronics
+EE-594 Smart sensors for IoT
+MICRO-455 Applied machine learning
+MICRO-514 Flexible bioelectronics
+EE-422 Analog circuits design
+EE-492(d) Project in internet of things (IoT)
+EE-518 Analog circuits for biochip
+EE-543 Advanced wireless receivers
+CS-472 Design technologies for integrated systems
+CS-473 Embedded systems
+EE-320 Circuits intégrés I
+EE-432 Hardware systems modeling I
+EE-465 Industrial electronics I
+EE-490(d) Lab in microelectronics
+EE-490(g) Lab on app development for tablets and smartphones
+EE-532 Integrated circuits technology
+EE-594 Smart sensors for IoT
+ME-413 Introduction to additive manufacturing
+ME-416 Fundamentals of computer aided manufacturing
+ME-419 Production management
+MICRO-432 Microelectronics
+MICRO-455 Applied machine learning
+COM-405 Mobile networks
+CS-410 Technology ventures in IC
+CS-476 Real-time embedded systems
+CS-486 Human computer interaction
+CS-490 Business design for IT services
+EE-397 TP de conception de systèmes numériques
+EE-433 Hardware systems modeling II
+EE-565 Industrial electronics II
+EE-593 Social media
+HUM-498(b) Introduction to China project II + China project I
+ME-516 Lifecycle performance of product systems
+MICRO-413 Advanced additive manufacturing technologies
+MICRO-440 Techniques d'assemblage
+MICRO-443 Analyse de produits et systèmes
+MICRO-510 Commande embarquée de moteurs
+CIVIL-402 Geomechanics
+CIVIL-406 Voies de circulation
+CIVIL-410 Hydraulique fluviale et aménagement de cours d'eau
+CIVIL-436 Structures existantes, bases
+CIVIL-438 Analyse et gestion de risques
+CIVIL-458 Economie des réseaux d'infrastructures
+CIVIL-490 Projet de construction
+CIVIL-491 Projet de systèmes civils
+ENG-440 Spatial statistics and analysis
+ENG-470 Droit de la construction pour ingénieurs I
+ENG-474 Etudes d'impact
+ENV-221 Hydrology for engineer
+ENV-222 Sciences du sol
+ENV-418 Eco-morphologie fluviale
+ENV-422 Concepts in ecological engineering
+ENV-426 Fluvial biogeosciences
+ENV-444 Exploratory data analysis and geovisualization
+ENV-445 Geomonitoring
+ENV-469 Systèmes de management environnementaux
+ENV-521 Statistiques multivariables avec R
+ENV-525 Physics and hydrology of snow
+ENV-548 Sensor orientation
+HUM-499(a) Introduction au projet Russie I
+HUM-499(c) Projet pratique obligatoire Russie III
+PHYS-315 Physique statistique I
+PHYS-403 Computer simulation of physical systems I
+CIVIL-441 Economie hydraulique
+CIVIL-453 Systèmes de transports
+CIVIL-455 Gestion de la maintenance des infrastructures
+CIVIL-490 Projet de construction
+CIVIL-491 Projet de systèmes civils
+CIVIL-530 Slope stability
+CS-322 Introduction to database systems
+ENG-272 Fluid mechanics (for SIE)
+ENG-366 Signals, instruments, and systems
+ENG-471 Droit de la construction pour ingénieurs II
+ENV-200 Environmental chemistry
+ENV-320 Physics and chemistry of the atmosphere
+ENV-400 Air pollution and climate change
+ENV-443 Spatial decision support systems
+ENV-523 Hydrogeophysics
+HUM-499(b) Introduction au projet Russie II + Projet Russie I
+MATH-342 Time series
+PHYS-316 Physique statistique II
+CH-353 Introduction to electronic structure methods
+COM-502 Dynamical system theory for engineers
+CS-433 Machine learning
+ENG-466 Distributed intelligent systems
+MICRO-511 Image processing I
+BIO-109 Introduction aux sciences du vivant (pour IC)
+BIO-315 Biomolecular structure and mechanics
+BIO-465 Biological modeling of neural networks
+CS-423 Distributed information systems
+CS-432 Computational motor control
+CS-456 Artificial neural networks
+MICRO-512 Image processing II
+BIOENG-430 Selected topics in life sciences
+BIOENG-437 Pharmaceutical biotechnology
+ChE-201 Introduction to chemical engineering
+ChE-330 Fluid mechanics and transport phenomena
+ChE-411 Principles and applications of systems biology
+ChE-451 Process development I
+ChE-460 Project in biotechnology
+ENG-433 Chimie des denrées alimentaires
+ENV-202 Microbiologie pour l'ingénieur
+ENV-506 TP de bioprocédés environnementaux
+BIOENG-433 Biotechnology lab (for CGC)
+CH-334 Opération unitaire et technologie des procédés
+CH-413 Nanobiotechnology and biophysics
+ChE-203 Introduction au génie chimique TP
+ChE-204 Introduction to transport phenomena
+ChE-311 Biochemical engineering
+ChE-320 Bioreactor modeling and simulation
+ChE-437 Bioprocesses and downstream processing
+ChE-452 Process development II
+ChE-459 Process development project
+ChE-460 Project in biotechnology
+ENG-430 Risk management
+ENG-435 Chemistry of food processes
+ENG-436 Food biotechnology
+ENV-503 Génie des bioprocédés environnementaux
+COM-406 Information theory and signal processing
+COM-415 Audio and acoustic signal processing
+COM-480 Data visualization
+CS-401 Applied data analysis
+CS-430 Intelligent agents
+CS-433 Machine learning
+EE-558 A network tour of data science
+MATH-413 Statistics for data science
+MATH-447 Risk, rare events and extremes
+COM-402 Information security and privacy
+COM-417 Advanced probability and applications
+COM-501 Advanced cryptography
+COM-503 Performance evaluation
+CS-439 Optimization for machine learning
+CS-442 Computer vision
+CS-449 Systems for data science
+CS-450 Advanced algorithms
+MATH-435 Bayesian computation
+MATH-493 Applied biostatistics
+AR-434 Théories et techniques du projet de sauvegarde
+AR-439 UE F : Architecture et réhabilitation
+AR-440 UE K : Architecture et durabilité : études de performances
+AR-442 Comfort and architecture: sustainable strategies
+AR-465 Habitat et développement urbain
+AR-493 Critique du projet urbain contemporain
+CIVIL-474 UE génie civil: Construction durable
+CIVIL-493 Projet interdisciplinaire à option
+ENG-445 Building energetics
+ENG-474 Etudes d'impact
+ENV-370 Analyse du cycle de vie, écobilan
+ENV-469 Systèmes de management environnementaux
+ENV-501 Material and energy flow analysis
+ME-409 Energy conversion and renewable energy
+PENS-491 Summer workshop
+PENS-494 Projet ENAC pour mineur IDEAS
+AR-449 Architecture et énergie solaire
+AR-458 Ville et mobilité
+CIVIL-441 Economie hydraulique
+CIVIL-442 Planification intégrée des infrastructures d'énergie
+CIVIL-460 Indoor Air Quality and Ventilation
+CIVIL-493 Projet interdisciplinaire à option
+ENV-400 Air pollution and climate change
+ENV-417 Hydrologie urbaine
+ENV-461 Sustainability assessment of urban systems
+ENV-470 Development engineering
+ME-454 Modelling and optimization of energy systems
+PENS-494 Projet ENAC pour mineur IDEAS
+CIVIL-411 Barrages et ouvrages hydrauliques annexes
+CIVIL-412 Ouvrages hydrauliques et aménagements hydroélectriques
+ChE-403 Chemical engineering of heterogenous reactions
+ChE-407 Electrochemical engineering
+ChE-451 Process development I
+EE-456 Hydropower plants: generating and pumping units
+EE-465 Industrial electronics I
+EE-466 Energy storage systems
+ENG-445 Building energetics
+ENV-370 Analyse du cycle de vie, écobilan
+ENV-500 Solid waste engineering
+ME-409 Energy conversion and renewable energy
+ME-446 Two-phase flows and heat transfer
+ME-450 Projet en énergie
+ME-451 Advanced energetics
+PHYS-423 Plasma physics II
+CIVIL-442 Planification intégrée des infrastructures d'énergie
+ChE-401 Equilibrium-stage separation processes
+ChE-452 Process development II
+EE-470 Power systems dynamics
+EE-472 Smart grids technologies
+EE-565 Industrial electronics II
+ENV-400 Air pollution and climate change
+ME-342 Introduction aux turbomachines
+ME-450 Projet en énergie
+ME-454 Modelling and optimization of energy systems
+MICRO-565 Fundamentals & processes for photovoltaic devices
+PHYS-424 Plasma physics III
+COM-208 Computer networks
+COM-301 Computer security
+COM-401 Cryptography and security
+COM-404 Information theory and coding
+CS-208 Computer architecture
+CS-250 Algorithms
+CS-305 Software engineering
+CS-305(a) Software development project
+CS-321 Informatique du temps réel
+CS-430 Intelligent agents
+CS-433 Machine learning
+CS-451 Distributed algorithms
+CS-452 Foundations of software
+CS-455 Topics in theoretical computer science
+CS-596 Optional project in computer science
+CS-207 Programmation orientée système
+CS-207(a) Projet programmation système
+CS-209 Architecture des systems-on-chip
+CS-251 Theory of computation
+CS-322 Introduction to database systems
+CS-330 Intelligence artificielle
+CS-341 Introduction to computer graphics
+CS-422 Database systems
+CS-423 Distributed information systems
+CS-440 Advanced computer graphics
+CS-442 Computer vision
+CS-450 Advanced algorithms
+CS-470 Advanced computer architecture
+CS-596 Optional project in computer science
+FIN-522 Venture capital
+FIN-523 Global business environment
+MGT-400 Corporate strategy
+MGT-401 Strategic marketing & technology commercialization
+MGT-408 Technology policy and the energy transition
+MGT-409 D. Thinking: real problems, human-focused solutions
+MGT-414 Technology & innovation strategy
+MGT-417 Value chain management in practice
+MGT-427 Management de projet et analyse du risque
+MGT-432 Data science for business
+MGT-439 Information technology & digital strategy
+MGT-454 Principles of microeconomics
+MGT-466 Negotiation techniques
+MGT-469 Intercultural presentation skills
+MGT-481 Financial & managerial accounting
+MGT-482 Principles of finance
+MGT-484 Applied probability & stochastic processes
+MGT-528 Operations: economics & strategy
+MGT-404 Economics of innovation and IP
+MGT-407 Economics of innovation & management in energy
+MGT-411 Innovation management
+MGT-412 Organizational behavior
+MGT-413 Entrepreneurship & new venture strategy
+MGT-415 Data science in practice
+MGT-416 Network analytics
+MGT-426 Logistique et analyse de la demande
+MGT-430 Quantitative systems modeling techniques
+MGT-431 Information: strategy & economics
+MGT-453 Industry dynamics, models & trends
+MGT-455 Practical business law
+MGT-468 Leading and managing in a global context
+MGT-483 Optimal decision making
+MGT-526 Supply chain management
+MGT-552 Corporate governance
+MGT-581 Introduction to econometrics
+BIO-105 Cellular biology and biochemistry for engineers
+BIO-482 Neuroscience II: cellular mechanisms
+BIO-502 Lab immersion II
+BIOENG-486 Sensorimotor neuroprosthetics
+EE-515 Fundamentals of biosensors and electronic biochips
+EE-516 Data analysis and model classification
+MICRO-486 Project in neuroprosthetics
+MICRO-511 Image processing I
+MICRO-514 Flexible bioelectronics
+BIO-465 Biological modeling of neural networks
+BIO-483 Neuroscience III: behavior & cognition
+BIOENG-442 Biomaterials
+BIOENG-448 Fundamentals of neuroengineering
+BIOENG-450 In silico neuroscience
+CS-432 Computational motor control
+EE-514 Brain computer interaction
+MICRO-486 Project in neuroprosthetics
+MICRO-512 Image processing II
+MSE-477 Nanomaterials
+PHYS-438 Fundamentals of biomedical imaging
+BIO-480 Neuroscience I: molecules & neurodegeneration
+BIO-482 Neuroscience II: cellular mechanisms
+BIOENG-486 Sensorimotor neuroprosthetics
+BIOENG-490 Project in computational neurosciences
+COM-502 Dynamical system theory for engineers
+CS-401 Applied data analysis
+CS-433 Machine learning
+EE-516 Data analysis and model classification
+MICRO-511 Image processing I
+MICRO-561 Biomicroscopy I
+BIO-465 Biological modeling of neural networks
+BIO-483 Neuroscience III: behavior & cognition
+BIOENG-448 Fundamentals of neuroengineering
+BIOENG-450 In silico neuroscience
+BIOENG-490 Project in computational neurosciences
+CS-432 Computational motor control
+CS-434 Unsupervised & reinforcement learning in neural networks
+EE-514 Brain computer interaction
+MICRO-512 Image processing II
+MICRO-562 Biomicroscopy II
+PHYS-438 Fundamentals of biomedical imaging
+BIO-341 Modélisation mathématique et computationnelle en biologie
+COM-502 Dynamical system theory for engineers
+COM-514 Mathematical foundations of signal processing
+ChE-411 Principles and applications of systems biology
+EE-584 Spacecraft design and system engineering
+ENG-422 Optional project in Systems engineering
+MATH-265 Introduction à l'optimisation et à la recherche opérationnelle
+ME-416 Fundamentals of computer aided manufacturing
+ME-421 System identification
+ME-425 Model predictive control
+ME-451 Advanced energetics
+ME-523 Commande non linéaire
+MGT-484 Applied probability & stochastic processes
+MGT-528 Operations: economics & strategy
+MICRO-455 Applied machine learning
+BIO-463 Genomics and bioinformatics
+COM-512 Networks out of control
+ENG-422 Optional project in Systems engineering
+MATH-600 Optimization and simulation
+ME-454 Modelling and optimization of energy systems
+ME-516 Lifecycle performance of product systems
+ME-524 Advanced control systems
+MGT-483 Optimal decision making
+MGT-526 Supply chain management
+MICRO-570 Advanced machine learning
+COM-208 Computer networks
+COM-300 Modèles stochastiques pour les communications
+COM-301 Computer security
+COM-401 Cryptography and security
+COM-404 Information theory and coding
+COM-407 TCP/IP networking
+COM-430 Modern digital communications: a hands-on approach
+COM-507 Optional project in communication systems
+COM-514 Mathematical foundations of signal processing
+CS-321 Informatique du temps réel
+CS-433 Machine learning
+EE-204 Circuits et systèmes I
+COM-302 Principles of digital communications
+COM-303 Signal processing for communications
+COM-308 Internet analytics
+COM-405 Mobile networks
+COM-500 Statistical signal and data processing through applications
+COM-507 Optional project in communication systems
+CS-341 Introduction to computer graphics
+CS-423 Distributed information systems
+CS-440 Advanced computer graphics
+CS-442 Computer vision
+EE-205 Circuits and systems II
+BIO-105 Cellular biology and biochemistry for engineers
+BIO-376 Physiologie par systèmes I
+BIOENG-486 Sensorimotor neuroprosthetics
+EE-512 Biomedical signal processing
+EE-515 Fundamentals of biosensors and electronic biochips
+ME-482 Biomechanics of the musculoskeletal system
+MICRO-321 Ingénierie optique I
+MICRO-331 Technologie des microstructures I
+MICRO-514 Flexible bioelectronics
+MICRO-560 BioMEMS
+MICRO-561 Biomicroscopy I
+MICRO-563 Project in biomedical technologies
+MICRO-568 Seminar in physiology and instrumentation
+BIO-377 Physiologie par systèmes II
+BIO-465 Biological modeling of neural networks
+BIOENG-442 Biomaterials
+CH-413 Nanobiotechnology and biophysics
+EE-511 Sensors in medical instrumentation
+EE-514 Brain computer interaction
+ME-481 Biomechanics of the cardiovascular system
+MICRO-322 Ingénierie optique II
+MICRO-562 Biomicroscopy II
+MICRO-563 Project in biomedical technologies
+MSE-477 Nanomaterials
+PHYS-301 Biophysics I
+PHYS-438 Fundamentals of biomedical imaging
+COM-414 Satellite communications systems and networks
+EE-310 Systèmes embarqués microprogrammés
+EE-345 Rayonnement et antennes
+EE-580 Conception de mécanismes spatiaux : introduction
+EE-584 Spacecraft design and system engineering
+EE-586 Introduction to planetary sciences
+EE-589 Projet en technologies spatiales
+ENV-340 Localisation par satellites
+ENV-540 Image processing for Earth observation
+ENV-548 Sensor orientation
+ME-321 Control systems + TP
+ME-372 Méthode des éléments finis
+ME-445 Aerodynamics
+MSE-485 Tribology
+PHYS-323 Astrophysique II : bases physiques de l'astrophysique
+PHYS-401 Astrophysics III : stellar and galactic dynamics
+EE-582 Lessons learned from the space exploration
+EE-583 Spacecraft avionics architectures
+EE-585 Space mission design and operations
+EE-589 Projet en technologies spatiales
+ENV-542 Advanced satellite positioning
+ME-341 Heat and mass transfer
+ME-373 Modélisation et simulation par éléments finis
+ME-418 Conception mécanique intégrée
+MICRO-315 Microinformatique (pour MT)
+PHYS-209 Astrophysique I : introduction à l'astrophysique
+BIOENG-445 Biomedical optics
+EE-540 Optical communications
+MICRO-321 Ingénierie optique I
+MICRO-331 Technologie des microstructures I
+MICRO-420 Selected topics in advanced optics
+MICRO-422 Lasers: theory and modern applications
+MICRO-424 Optics laboratories II
+MICRO-511 Image processing I
+MICRO-523 Optical detectors
+MICRO-561 Biomicroscopy I
+MICRO-567 Optical waves propagation
+PHYS-317 Optics I
+PHYS-425 Quantum physics III
+PHYS-433 Semiconductor physics and light-matter interaction
+PHYS-449 Optique III
+PHYS-453 Quantum electrodynamics and quantum optics
+PHYS-608 Nonlinear Optics
+BIO-443 Fundamentals of biophotonics
+CH-447 Advanced materials for photovoltaics and lighting
+CH-448 Photomedicine
+EE-440 Photonic systems and technology
+MICRO-322 Ingénierie optique II
+MICRO-421 Imaging optics
+MICRO-423 Optics laboratories I
+MICRO-504 Photonic micro- and nanosystems
+MICRO-505 Organic and printed electronics
+MICRO-512 Image processing II
+MICRO-520 Laser microprocessing
+MICRO-562 Biomicroscopy II
+MICRO-565 Fundamentals & processes for photovoltaic devices
+PHYS-318 Optics II
+PHYS-426 Quantum physics IV
+PHYS-434 Physics of photonic semiconductor devices
+PHYS-454 Quantum optics and quantum information
+CS-119(d) Information, calcul, communication
+EE-282 Initiation à l'électronique
+MATH-100(b) Analyse avancée I
+MATH-110(b) Algèbre linéaire avancée I
+MATH-201 Analyse III
+MATH-233 Probabilités et statistique
+PHYS-100 Physique avancée I
+PHYS-200 Physique III
+PHYS-203 Physique numérique I
+PHYS-204 Laboratoire de physique IIa
+PHYS-300(a) Introduction aux techniques de construction
+PHYS-311 Physique nucléaire et corpusculaire I
+PHYS-313 Physique quantique I
+PHYS-315 Physique statistique I
+PHYS-317 Optics I
+PHYS-319 Laboratoire de physique IIIa
+PHYS-323 Astrophysique II : bases physiques de l'astrophysique
+PHYS-324 Classical electrodynamics
+PHYS-331 Analyse fonctionnelle (pour PH)
+CS-112(g) Programmation orientée objet
+MATH-105(b) Analyse avancée II
+MATH-115(b) Advanced linear algebra II
+MATH-206 Analyse IV
+PHYS-105 Physique avancée II
+PHYS-117 Laboratoire de physique (métrologie)
+PHYS-202 Mécanique analytique (pour SPH)
+PHYS-206 Physique IV
+PHYS-209 Astrophysique I : introduction à l'astrophysique
+PHYS-210 Physique numérique II
+PHYS-211 Laboratoire de physique IIb
+PHYS-216 Mathematical methods for physicists
+PHYS-301 Biophysics I
+PHYS-310 Solid state physics II
+PHYS-312 Physique nucléaire et corpusculaire II
+PHYS-314 Physique quantique II
+PHYS-316 Physique statistique II
+PHYS-318 Optics II
+PHYS-320 Laboratoire de physique IIIb
+PHYS-325 Physique des plasmas I
+PHYS-332 Computational physics III
+ETH-530 Advanced topics in nuclear reactor materials
+ETH-531 Nuclear computations lab
+ETH-532 Beyond-design-basis safety
+ETH-533 Decommissioning of nuclear power plants
+ETH-590 Semester project nuclear engineering
+ME-409 Energy conversion and renewable energy
+ME-453 Hydraulic turbomachines
+PHYS-411 Physics of atoms, nuclei and elementary particles
+PHYS-443 Neutronics
+PHYS-445 Nuclear fusion and plasma physics
+PHYS-447 Reactor technology
+PHYS-448 Introduction to particle accelerators
+PHYS-450 Radiation biology, protection and applications
+PHYS-451 Radiation and reactor experiments
+PHYS-452 Radiation detection
+PHYS-455 Introduction to medical radiation physics
+PHYS-490 Elective project
+PHYS-595 Stage d'ingénieur (master en Génie nucléaire)
+PHYS-598 Projet de master en génie nucléaire
+ETH-401 Nuclear energy systems
+ETH-402 Nuclear materials
+ETH-403 Safety of nuclear power plants
+ETH-404 Special topics in reactor physics
+ETH-427 Biomedical imaging
+ETH-431 Renewable energy technologies II, energy storage and conversion
+ETH-433 Computational multiphase thermal fluid dynamics
+ETH-434 Multi-phase flow
+ETH-444 Computational neuroimaging clinic
+ETH-445 Introduction to quantum mechanics for engineers
+ETH-446 Magnetic resonance imaging in medicine
+ETH-447 Monte Carlo in medical physics
+ETH-448 Radiation-based imaging methods for nuclear and industrial applications
+ETH-449 Therapeutic applications of particle physics:principles and pratice of particle therapy
+ETH-452 Medical physics II
+ETH-453 Micro and nano-tomography of biological tissues
+PHYS-490 Elective project
+PHYS-595 Stage d'ingénieur (master en Génie nucléaire)
+PHYS-598 Projet de master en génie nucléaire
+MICRO-422 Lasers: theory and modern applications
+PHYS-302 Biophysics II
+PHYS-307 Physics of materials
+PHYS-401 Astrophysics III : stellar and galactic dynamics
+PHYS-403 Computer simulation of physical systems I
+PHYS-405 Experimental methods in physics
+PHYS-407 Frontiers in nanosciences
+PHYS-411 Physics of atoms, nuclei and elementary particles
+PHYS-415 Particules élémentaires I
+PHYS-419 Solid state physics III
+PHYS-421 Laboratoire de physique IVa
+PHYS-423 Plasma physics II
+PHYS-425 Quantum physics III
+PHYS-427 Relativity and cosmology I
+PHYS-431 Quantum field theory I
+PHYS-433 Semiconductor physics and light-matter interaction
+PHYS-435 Statistical physics III
+PHYS-441 Statistical physics of biomacromolecules
+PHYS-443 Neutronics
+PHYS-445 Nuclear fusion and plasma physics
+PHYS-447 Reactor technology
+PHYS-448 Introduction to particle accelerators
+PHYS-449 Optique III
+PHYS-450 Radiation biology, protection and applications
+PHYS-452 Radiation detection
+PHYS-453 Quantum electrodynamics and quantum optics
+PHYS-460 Nonlinear dynamics, chaos and complex systems
+PHYS-596 Stage d'ingénieur (master en Ingénierie physique)
+PHYS-599(a) Projet de master en ingénierie physique
+CH-360 Atoms and radiation
+MSE-450 Electron microscopy: advanced methods
+PHYS-328 Physics of novel electronic materials
+PHYS-400 Selected topics in nuclear and particle physics
+PHYS-402 Astrophysics IV : observational cosmology
+PHYS-410 Cold atoms and quantum simulation
+PHYS-416 Particules élémentaires II
+PHYS-420 Solid state physics IV
+PHYS-422 Laboratoire de physique IVb
+PHYS-424 Plasma physics III
+PHYS-426 Quantum physics IV
+PHYS-428 Relativity and cosmology II
+PHYS-432 Quantum field theory II
+PHYS-434 Physics of photonic semiconductor devices
+PHYS-436 Statistical physics IV
+PHYS-438 Fundamentals of biomedical imaging
+PHYS-439 Introduction à la physique des astroparticules
+PHYS-440 Particle detection
+PHYS-442 Méthodologie des plans d'expériences
+PHYS-454 Quantum optics and quantum information
+PHYS-596 Stage d'ingénieur (master en Ingénierie physique)
+PHYS-599(a) Projet de master en ingénierie physique
+MICRO-422 Lasers: theory and modern applications
+PHYS-302 Biophysics II
+PHYS-307 Physics of materials
+PHYS-401 Astrophysics III : stellar and galactic dynamics
+PHYS-403 Computer simulation of physical systems I
+PHYS-405 Experimental methods in physics
+PHYS-407 Frontiers in nanosciences
+PHYS-411 Physics of atoms, nuclei and elementary particles
+PHYS-415 Particules élémentaires I
+PHYS-419 Solid state physics III
+PHYS-421 Laboratoire de physique IVa
+PHYS-423 Plasma physics II
+PHYS-425 Quantum physics III
+PHYS-427 Relativity and cosmology I
+PHYS-431 Quantum field theory I
+PHYS-433 Semiconductor physics and light-matter interaction
+PHYS-435 Statistical physics III
+PHYS-441 Statistical physics of biomacromolecules
+PHYS-443 Neutronics
+PHYS-445 Nuclear fusion and plasma physics
+PHYS-447 Reactor technology
+PHYS-448 Introduction to particle accelerators
+PHYS-449 Optique III
+PHYS-450 Radiation biology, protection and applications
+PHYS-452 Radiation detection
+PHYS-453 Quantum electrodynamics and quantum optics
+PHYS-460 Nonlinear dynamics, chaos and complex systems
+PHYS-597 Travail de spécialisation pour master en physique
+PHYS-599(b) Projet de master en physique
+CH-360 Atoms and radiation
+MSE-450 Electron microscopy: advanced methods
+PHYS-328 Physics of novel electronic materials
+PHYS-400 Selected topics in nuclear and particle physics
+PHYS-402 Astrophysics IV : observational cosmology
+PHYS-410 Cold atoms and quantum simulation
+PHYS-416 Particules élémentaires II
+PHYS-420 Solid state physics IV
+PHYS-422 Laboratoire de physique IVb
+PHYS-424 Plasma physics III
+PHYS-426 Quantum physics IV
+PHYS-428 Relativity and cosmology II
+PHYS-432 Quantum field theory II
+PHYS-434 Physics of photonic semiconductor devices
+PHYS-436 Statistical physics IV
+PHYS-438 Fundamentals of biomedical imaging
+PHYS-439 Introduction à la physique des astroparticules
+PHYS-440 Particle detection
+PHYS-442 Méthodologie des plans d'expériences
+PHYS-454 Quantum optics and quantum information
+PHYS-597 Travail de spécialisation pour master en physique
+PHYS-599(b) Projet de master en physique
+CH-160(a) Chimie générale avancée
+CH-160(en) Chimie générale avancée (anglais)
+CS-119(b) Information, calcul, communication
+MATH-101(de) Analyse I (allemand)
+MATH-101(en) Analyse I (anglais)
+MATH-101(g) Analyse I
+MATH-111(en) Algèbre linéaire (anglais)
+MATH-111(g) Algèbre linéaire
+MATH-111(pi) Algèbre linéaire (cours pilote)
+MATH-202(c) Analyse III
+MATH-251(b) Analyse numérique
+MSE-203 Milieux continus
+MSE-204 Thermodynamics for materials science
+MSE-210 Propriétés fonctionnelles des matériaux
+MSE-211 Organic chemistry
+MSE-236 Métaux et alliages + TP
+MSE-304 Surfaces and interfaces
+MSE-310 Déformations des matériaux
+MSE-326 Elaboration des céramiques et des colloïdes +TP
+MSE-340 Composites polymères + TP
+MSE-351 Surface analysis
+MSE-360 Science des polymères
+MSE-369 Introduction to numerical modelling
+MSE-420 Cementitious materials (advanced)
+MSE-422 Advanced metallurgy
+MSE-423 Fundamentals of solid-state materials
+MSE-425 Soft matter
+MSE-430 Life cycle engineering of polymers
+MSE-437 Polymer chemistry and macromolecular engineering
+MSE-440 Composites technology
+MSE-441 Electrochemistry for materials technology
+MSE-443(a) Modelling problem solving, computing and visualisation I
+MSE-462 Powder technology
+MSE-465 Thin film fabrication processes
+MSE-470(a) Seminar series on advances in materials (autumn)
+MSE-471 Biomaterials (pour MX)
+MSE-485 Tribology
+MSE-490 Research project in materials I
+MSE-491 Research project in materials II
+MSE-492 Research project in materials III
+MSE-597 Stage d'ingénieur crédité avec le PDM (master en Science et génie des matériaux)
+MSE-599 Projet de master en science et génie des matériaux
+PHYS-101(b) Physique générale : mécanique (STI I)
+PHYS-101(de) Physique générale : mécanique (allemand)
+PHYS-101(en) Physique générale : mécanique (anglais)
+PHYS-201(d) General physics: electromagnetism
+EE-105 Sciences et technologies de l'électricité (printemps)
+MATH-106(c) Analyse II
+MATH-106(en) Analyse II (anglais)
+MATH-207(c) Analyse IV
+ME-105 Introduction à la conception mécanique
+ME-373 Modélisation et simulation par éléments finis
+MSE-100 Introduction à la science des matériaux
+MSE-202 Crystallography and diffraction methods
+MSE-205 Résistance des matériaux
+MSE-206 Rhéologie et mécanique des fluides
+MSE-209 Phénomènes de transfert en science des matériaux
+MSE-212 Biologie pour ingénieurs
+MSE-231 Ceramics, structures and properties + TP
+MSE-300 Theory of materials : from structures to properties
+MSE-302 Transformations de phase
+MSE-311 Corrosion et protection des métaux + TP
+MSE-322 Matériaux de construction + TP
+MSE-390 Projet matériaux
+MSE-421 Statistical mechanics
+MSE-424 Fracture of materials
+MSE-431 Physical chemistry of polymeric materials
+MSE-432 Introduction to magnetic materials in modern technologies
+MSE-442 Introduction to crystal growth by epitaxy
+MSE-443(b) Modelling problem solving, computing and visualisation II
+MSE-450 Electron microscopy: advanced methods
+MSE-451 Polymer morphological characterization techniques
+MSE-461 Micro and nanostructuration of materials
+MSE-464 Assembly techniques
+MSE-466 Wood structures, properties and uses
+MSE-468 Atomistic and quantum simulations of materials
+MSE-470(b) Seminar series on advances in materials (spring)
+MSE-477 Nanomaterials
+MSE-478 Organic semiconductors
+MSE-480 Dielectric properties of materials
+MSE-484 Properties of semiconductors and related nanostructures
+MSE-486 Organic electronic materials - synthesis, applications, properties
+MSE-490 Research project in materials I
+MSE-491 Research project in materials II
+MSE-492 Research project in materials III
+MSE-597 Stage d'ingénieur crédité avec le PDM (master en Science et génie des matériaux)
+MSE-599 Projet de master en science et génie des matériaux
+PHYS-106(b) Physique générale : thermodynamique
+PHYS-106(en) Physique générale : thermodynamique (anglais)
+PHYS-207(c) Physique générale : quantique
+CH-160(a) Chimie générale avancée
+CH-160(en) Chimie générale avancée (anglais)
+CIVIL-410 Hydraulique fluviale et aménagement de cours d'eau
+ENG-267 Méthodes quantitatives I
+ENG-400 Water quality modeling
+ENG-420 Environmental transport phenomena
+ENG-440 Spatial statistics and analysis
+ENG-466 Distributed intelligent systems
+ENG-474 Etudes d'impact
+ENV-167 Introduction to environmental engineering
+ENV-201 Génie des procédés
+ENV-202 Microbiologie pour l'ingénieur
+ENV-221 Hydrology for engineer
+ENV-222 Sciences du sol
+ENV-270 Informatique pour l'ingénieur
+ENV-300 Analyse des polluants dans l'environnement
+ENV-301 Remédiation des sites
+ENV-304 Génie sanitaire, gestion des eaux et des déchets
+ENV-340 Localisation par satellites
+ENV-342 Système d'Information Géographique (SIG)
+ENV-367 Législation environnementale et droit de la construction
+ENV-370 Analyse du cycle de vie, écobilan
+ENV-402 Sanitary engineering in developing countries
+ENV-405 Water and wastewater treatment
+ENV-406 Biomineralization: from nature to application
+ENV-418 Eco-morphologie fluviale
+ENV-422 Concepts in ecological engineering
+ENV-424 Water resources engineering
+ENV-426 Fluvial biogeosciences
+ENV-444 Exploratory data analysis and geovisualization
+ENV-445 Geomonitoring
+ENV-460 Gestion foncière et droit foncier
+ENV-468 Environnements de travail, risques professionnels
+ENV-469 Systèmes de management environnementaux
+ENV-500 Solid waste engineering
+ENV-501 Material and energy flow analysis
+ENV-506 TP de bioprocédés environnementaux
+ENV-507 Fate and behaviour of environmental contaminants
+ENV-509 Applied wastewater engineering
+ENV-521 Statistiques multivariables avec R
+ENV-524 Risques hydrologiques et aménagements
+ENV-525 Physics and hydrology of snow
+ENV-540 Image processing for Earth observation
+ENV-547 Design de SIG
+ENV-548 Sensor orientation
+ENV-597 Projet SIE
+ENV-598 Stage d'ingénieur crédité avec le PDM (master en Sciences et ingénierie de l'environnement)
+ENV-599 Projet de master en sciences et ingénierie de l'environnement
+MATH-101(a) Analyse I
+MATH-101(de) Analyse I (allemand)
+MATH-101(en) Analyse I (anglais)
+MATH-111(a) Algèbre linéaire
+MATH-111(en) Algèbre linéaire (anglais)
+MATH-111(pi) Algèbre linéaire (cours pilote)
+MATH-203(c) Analyse III
+MATH-251(a) Numerical analysis
+MATH-265 Introduction à l'optimisation et à la recherche opérationnelle
+ME-409 Energy conversion and renewable energy
+MICRO-511 Image processing I
+PENS-490 Projet ENAC
+PENS-491 Summer workshop
+PHYS-101(a) Physique générale : mécanique
+PHYS-101(de) Physique générale : mécanique (allemand)
+PHYS-101(en) Physique générale : mécanique (anglais)
+PHYS-201(e) General physics: electromagnetism
+CIVIL-312 Ouvrages et aménagements hydrauliques
+CIVIL-441 Economie hydraulique
+CS-119(k) Information, calcul, communication
+CS-322 Introduction to database systems
+CS-423 Distributed information systems
+ENG-272 Fluid mechanics (for SIE)
+ENG-366 Signals, instruments, and systems
+ENG-467 Experimental design and data analysis with R
+ENV-103 Biologie
+ENV-140 Eléments de géomatique
+ENV-200 Environmental chemistry
+ENV-220 Ecologie générale
+ENV-241 Acquisition de données pour l'environnement
+ENV-306 Ecotoxicology
+ENV-320 Physics and chemistry of the atmosphere
+ENV-321 Aquatic ecosystems
+ENV-341 Télédétection
+ENV-361 Aménagement et gestion du territoire
+ENV-366 Quantitative methods II
+ENV-400 Air pollution and climate change
+ENV-417 Hydrologie urbaine
+ENV-420 Bio-ingénierie des cours d'eau et milieux naturels
+ENV-425 Limnology
+ENV-443 Spatial decision support systems
+ENV-461 Sustainability assessment of urban systems
+ENV-466 Droit : contrats et responsabilité professionnelle
+ENV-470 Development engineering
+ENV-503 Génie des bioprocédés environnementaux
+ENV-504 Groundwater and soil remediation
+ENV-508 Analyse et management des risques industriels
+ENV-523 Hydrogeophysics
+ENV-542 Advanced satellite positioning
+ENV-596 Design project
+ENV-597 Projet SIE
+ENV-598 Stage d'ingénieur crédité avec le PDM (master en Sciences et ingénierie de l'environnement)
+ENV-599 Projet de master en sciences et ingénierie de l'environnement
+MATH-106(a) Analyse II
+MATH-106(en) Analyse II (anglais)
+MATH-131 Probabilités et statistique
+MATH-207(d) Analyse IV
+ME-273 Introduction à la commande des systèmes dynamiques
+PENS-490 Projet ENAC
+PHYS-106(c) Physique générale : thermodynamique
+PHYS-106(en) Physique générale : thermodynamique (anglais)
+BIO-203 Labo intégré en sciences de la vie I
+BIO-205 Cellular and molecular biology I
+BIO-212 Biological chemistry I
+BIO-221 Cell and developmental biology for engineers
+BIO-243 Stochastic thermodynamics for bioengineers
+BIO-318 Scientific project design in synthetic biology (iGEM)
+BIO-320 Morphologie I
+BIO-341 Modélisation mathématique et computationnelle en biologie
+BIO-372 Microbiology
+BIO-373 Génétique et génomique
+BIO-376 Physiologie par systèmes I
+BIO-378 Travaux pratiques de physiologie I
+BIO-447 Stem cell biology and technology
+BIO-449 Understanding statistics and experimental design
+BIO-450 Molecular endocrinology
+BIO-455 Introduction au droit et à l'éthique
+BIO-464 Scientific project design in cell and developmental biology
+BIO-467 Scientific literature analysis in bioengineering
+BIO-468 Scientific literature analysis in computational molecular biology
+BIO-469 Scientific project design in regenerative medicine and diagnostics
+BIO-471 Cancer biology I
+BIO-479 Immunology
+BIO-480 Neuroscience I: molecules & neurodegeneration
+BIO-482 Neuroscience II: cellular mechanisms
+BIO-487 Scientific project design in translational neurosciences
+BIO-488 Scientific project design in translational oncology
+BIO-493 Scientific project design in integrative neurosciences
+BIO-494 Scientific project design in drug discovery
+BIO-501 Lab immersion I
+BIO-502 Lab immersion II
+BIO-503 Lab immersion III
+BIO-504 Lab immersion academic (outside EPFL)
+BIO-506 Lab immersion in industry
+BIOENG-315 Materials science for bioengineers
+BIOENG-445 Biomedical optics
+BIOENG-451 Scientific literature analysis in neuroscience
+BIOENG-455 Computational cell biology
+BIOENG-457 Neuroengineering of vision
+BIOENG-486 Sensorimotor neuroprosthetics
+BIOENG-511 Lab methods : animal experimentation
+BIOENG-512 Lab methods : bioactive compounds screening
+BIOENG-513 Lab methods : biosafety
+BIOENG-514 Lab methods : flow cytometry
+BIOENG-516 Lab methods : histology
+BIOENG-517 Lab methods : proteomics
+BIOENG-596(c) Industry internship
+CH-160(e) Chimie générale avancée
+CH-160(en) Chimie générale avancée (anglais)
+COM-300 Modèles stochastiques pour les communications
+COM-502 Dynamical system theory for engineers
+CS-116 Projets en informatique (pour SV)
+CS-119(g) Information, calcul, communication
+CS-401 Applied data analysis
+CS-433 Machine learning
+ChE-411 Principles and applications of systems biology
+EE-295 Systèmes électriques et électroniques I
+EE-512 Biomedical signal processing
+EE-515 Fundamentals of biosensors and electronic biochips
+EE-516 Data analysis and model classification
+MATH-101(de) Analyse I (allemand)
+MATH-101(en) Analyse I (anglais)
+MATH-101(f) Analyse I
+MATH-111(en) Algèbre linéaire (anglais)
+MATH-111(f) Algèbre linéaire
+MATH-111(pi) Algèbre linéaire (cours pilote)
+MATH-203(a) Analyse III
+MATH-231 Probabilities and statistics I
+ME-231(b) Structural mechanics (for SV)
+ME-482 Biomechanics of the musculoskeletal system
+MGT-484 Applied probability & stochastic processes
+MICRO-310(b) Signaux et systèmes I (pour SV)
+MICRO-331 Technologie des microstructures I
+MICRO-391 Interfaces in biology and nanoscience
+MICRO-511 Image processing I
+MICRO-514 Flexible bioelectronics
+MICRO-560 BioMEMS
+MICRO-561 Biomicroscopy I
+MICRO-568 Seminar in physiology and instrumentation
+PHYS-101(de) Physique générale : mécanique (allemand)
+PHYS-101(en) Physique générale : mécanique (anglais)
+PHYS-101(h) Physique générale : mécanique
+PHYS-201(a) Physique générale : électromagnétisme
+PHYS-302 Biophysics II
+PHYS-441 Statistical physics of biomacromolecules
+BIO-204 Labo intégré en sciences de la vie II
+BIO-207 Biologie cellulaire et moléculaire II
+BIO-213 Biological chemistry II
+BIO-244 Physics of the cell
+BIO-315 Biomolecular structure and mechanics
+BIO-321 Morphologie II
+BIO-377 Physiologie par systèmes II
+BIO-379 Travaux pratiques de physiologie II
+BIO-382 Neuroscience for engineers
+BIO-392 Introduction to oncology
+BIO-410 Bioimage informatics
+BIO-441 Nutrition: from molecules to health
+BIO-443 Fundamentals of biophotonics
+BIO-463 Genomics and bioinformatics
+BIO-465 Biological modeling of neural networks
+BIO-472 Cancer biology II
+BIO-477 Infection biology
+BIO-478 Pharmacology and pharmacokinetics
+BIO-483 Neuroscience III: behavior & cognition
+BIO-491 New tools & research strategies in personalized health
+BIO-501 Lab immersion I
+BIO-502 Lab immersion II
+BIO-503 Lab immersion III
+BIO-504 Lab immersion academic (outside EPFL)
+BIO-506 Lab immersion in industry
+BIOENG-110 Biologie générale
+BIOENG-312 Fluid mechanics for SV
+BIOENG-390 Project in bioengineering and biosciences
+BIOENG-399 Immunoengineering
+BIOENG-404 Analysis and modelling of locomotion
+BIOENG-420 Single cell biology
+BIOENG-442 Biomaterials
+BIOENG-444 Advanced bioengineering methods laboratory
+BIOENG-448 Fundamentals of neuroengineering
+BIOENG-449 Tissue engineering
+BIOENG-450 In silico neuroscience
+BIOENG-456 Controlling behavior in animals and robots
+BIOENG-596(c) Industry internship
+CH-412 Chemical biology
+CH-413 Nanobiotechnology and biophysics
+CS-112(i) Programmation orientée objet
+CS-211 Introduction à l'informatique visuelle
+CS-330 Intelligence artificielle
+CS-432 Computational motor control
+CS-434 Unsupervised & reinforcement learning in neural networks
+EE-296 Systèmes électriques et électroniques II
+EE-451 Image analysis and pattern recognition
+EE-511 Sensors in medical instrumentation
+EE-514 Brain computer interaction
+EE-518 Analog circuits for biochip
+MATH-106(en) Analyse II (anglais)
+MATH-106(f) Analyse II
+MATH-207(a) Analyse IV
+MATH-236 Probabilities and statistics II
+MATH-251(c) Analyse numérique
+MATH-493 Applied biostatistics
+ME-341 Heat and mass transfer
+ME-481 Biomechanics of the cardiovascular system
+ME-484 Numerical methods in biomechanics
+MGT-403 Economics of innovation in the biomedical industry
+MICRO-311(b) Signaux et systèmes II (pour SV)
+MICRO-330 Capteurs
+MICRO-512 Image processing II
+MICRO-562 Biomicroscopy II
+MSE-477 Nanomaterials
+PHYS-106(en) Physique générale : thermodynamique (anglais)
+PHYS-106(h) Physique générale : thermodynamique
+PHYS-207(a) Physique générale : quantique
+PHYS-301 Biophysics I
+PHYS-438 Fundamentals of biomedical imaging
+BIO-318 Scientific project design in synthetic biology (iGEM)
+BIO-447 Stem cell biology and technology
+BIO-449 Understanding statistics and experimental design
+BIO-455 Introduction au droit et à l'éthique
+BIO-464 Scientific project design in cell and developmental biology
+BIO-467 Scientific literature analysis in bioengineering
+BIO-468 Scientific literature analysis in computational molecular biology
+BIO-469 Scientific project design in regenerative medicine and diagnostics
+BIO-487 Scientific project design in translational neurosciences
+BIO-488 Scientific project design in translational oncology
+BIO-493 Scientific project design in integrative neurosciences
+BIO-494 Scientific project design in drug discovery
+BIO-501 Lab immersion I
+BIO-502 Lab immersion II
+BIO-503 Lab immersion III
+BIO-504 Lab immersion academic (outside EPFL)
+BIO-506 Lab immersion in industry
+BIO-599 Projet de master en bioingénierie et biotechnologie
+BIOENG-445 Biomedical optics
+BIOENG-451 Scientific literature analysis in neuroscience
+BIOENG-455 Computational cell biology
+BIOENG-457 Neuroengineering of vision
+BIOENG-486 Sensorimotor neuroprosthetics
+BIOENG-511 Lab methods : animal experimentation
+BIOENG-512 Lab methods : bioactive compounds screening
+BIOENG-513 Lab methods : biosafety
+BIOENG-514 Lab methods : flow cytometry
+BIOENG-516 Lab methods : histology
+BIOENG-517 Lab methods : proteomics
+BIOENG-596(a) Industry internship in bioengineering
+COM-300 Modèles stochastiques pour les communications
+COM-502 Dynamical system theory for engineers
+CS-401 Applied data analysis
+ChE-411 Principles and applications of systems biology
+EE-512 Biomedical signal processing
+EE-515 Fundamentals of biosensors and electronic biochips
+EE-516 Data analysis and model classification
+ME-231(b) Structural mechanics (for SV)
+ME-482 Biomechanics of the musculoskeletal system
+MGT-484 Applied probability & stochastic processes
+MICRO-331 Technologie des microstructures I
+MICRO-511 Image processing I
+MICRO-514 Flexible bioelectronics
+MICRO-560 BioMEMS
+MICRO-561 Biomicroscopy I
+MICRO-567 Optical waves propagation
+MICRO-568 Seminar in physiology and instrumentation
+PHYS-302 Biophysics II
+PHYS-441 Statistical physics of biomacromolecules
+BIO-315 Biomolecular structure and mechanics
+BIO-410 Bioimage informatics
+BIO-430 Multidisciplinary organization of medtechs/biotechs
+BIO-443 Fundamentals of biophotonics
+BIO-463 Genomics and bioinformatics
+BIO-478 Pharmacology and pharmacokinetics
+BIO-501 Lab immersion I
+BIO-502 Lab immersion II
+BIO-503 Lab immersion III
+BIO-504 Lab immersion academic (outside EPFL)
+BIO-506 Lab immersion in industry
+BIO-599 Projet de master en bioingénierie et biotechnologie
+BIOENG-404 Analysis and modelling of locomotion
+BIOENG-420 Single cell biology
+BIOENG-442 Biomaterials
+BIOENG-444 Advanced bioengineering methods laboratory
+BIOENG-448 Fundamentals of neuroengineering
+BIOENG-449 Tissue engineering
+BIOENG-456 Controlling behavior in animals and robots
+BIOENG-596(a) Industry internship in bioengineering
+CH-412 Chemical biology
+CH-413 Nanobiotechnology and biophysics
+CS-211 Introduction à l'informatique visuelle
+CS-432 Computational motor control
+EE-451 Image analysis and pattern recognition
+EE-511 Sensors in medical instrumentation
+EE-514 Brain computer interaction
+EE-518 Analog circuits for biochip
+MATH-493 Applied biostatistics
+ME-481 Biomechanics of the cardiovascular system
+ME-484 Numerical methods in biomechanics
+MGT-403 Economics of innovation in the biomedical industry
+MICRO-512 Image processing II
+MICRO-562 Biomicroscopy II
+PHYS-301 Biophysics I
+PHYS-438 Fundamentals of biomedical imaging
+BIO-318 Scientific project design in synthetic biology (iGEM)
+BIO-447 Stem cell biology and technology
+BIO-449 Understanding statistics and experimental design
+BIO-450 Molecular endocrinology
+BIO-455 Introduction au droit et à l'éthique
+BIO-464 Scientific project design in cell and developmental biology
+BIO-467 Scientific literature analysis in bioengineering
+BIO-468 Scientific literature analysis in computational molecular biology
+BIO-469 Scientific project design in regenerative medicine and diagnostics
+BIO-471 Cancer biology I
+BIO-479 Immunology
+BIO-480 Neuroscience I: molecules & neurodegeneration
+BIO-482 Neuroscience II: cellular mechanisms
+BIO-487 Scientific project design in translational neurosciences
+BIO-488 Scientific project design in translational oncology
+BIO-493 Scientific project design in integrative neurosciences
+BIO-494 Scientific project design in drug discovery
+BIO-501 Lab immersion I
+BIO-502 Lab immersion II
+BIO-503 Lab immersion III
+BIO-504 Lab immersion academic (outside EPFL)
+BIO-506 Lab immersion in industry
+BIO-598 Projet de master en sciences et technologies du vivant
+BIOENG-451 Scientific literature analysis in neuroscience
+BIOENG-455 Computational cell biology
+BIOENG-457 Neuroengineering of vision
+BIOENG-486 Sensorimotor neuroprosthetics
+BIOENG-511 Lab methods : animal experimentation
+BIOENG-512 Lab methods : bioactive compounds screening
+BIOENG-513 Lab methods : biosafety
+BIOENG-514 Lab methods : flow cytometry
+BIOENG-516 Lab methods : histology
+BIOENG-517 Lab methods : proteomics
+BIOENG-596(b) Industry internship in Life Sciences and Technology
+COM-300 Modèles stochastiques pour les communications
+COM-502 Dynamical system theory for engineers
+CS-433 Machine learning
+ChE-411 Principles and applications of systems biology
+EE-515 Fundamentals of biosensors and electronic biochips
+EE-516 Data analysis and model classification
+MICRO-511 Image processing I
+MICRO-560 BioMEMS
+MICRO-561 Biomicroscopy I
+PHYS-441 Statistical physics of biomacromolecules
+BIO-315 Biomolecular structure and mechanics
+BIO-410 Bioimage informatics
+BIO-430 Multidisciplinary organization of medtechs/biotechs
+BIO-441 Nutrition: from molecules to health
+BIO-463 Genomics and bioinformatics
+BIO-465 Biological modeling of neural networks
+BIO-472 Cancer biology II
+BIO-477 Infection biology
+BIO-478 Pharmacology and pharmacokinetics
+BIO-483 Neuroscience III: behavior & cognition
+BIO-491 New tools & research strategies in personalized health
+BIO-501 Lab immersion I
+BIO-502 Lab immersion II
+BIO-503 Lab immersion III
+BIO-504 Lab immersion academic (outside EPFL)
+BIO-506 Lab immersion in industry
+BIO-598 Projet de master en sciences et technologies du vivant
+BIOENG-420 Single cell biology
+BIOENG-448 Fundamentals of neuroengineering
+BIOENG-450 In silico neuroscience
+BIOENG-456 Controlling behavior in animals and robots
+BIOENG-596(b) Industry internship in Life Sciences and Technology
+CH-412 Chemical biology
+CH-413 Nanobiotechnology and biophysics
+CS-211 Introduction à l'informatique visuelle
+CS-432 Computational motor control
+CS-434 Unsupervised & reinforcement learning in neural networks
+EE-511 Sensors in medical instrumentation
+EE-514 Brain computer interaction
+EE-518 Analog circuits for biochip
+MATH-493 Applied biostatistics
+MGT-403 Economics of innovation in the biomedical industry
+MICRO-512 Image processing II
+MICRO-562 Biomicroscopy II
+PHYS-438 Fundamentals of biomedical imaging
+CH-361 Chimie générale avancée (à choix)
+COM-208 Computer networks
+COM-300 Modèles stochastiques pour les communications
+COM-301 Computer security
+COM-307 Projet en systèmes de communication I
+COM-309 Traitement quantique de l'information
+CS-101 Advanced information, computation, communication I
+CS-107 Introduction à la programmation
+CS-208 Computer architecture
+CS-210 Functional programming
+CS-234 Technologies of societal self-organization
+CS-250 Algorithms
+CS-305 Software engineering
+CS-305(a) Software development project
+CS-307 Introduction to multiprocessor architecture
+CS-320 Computer language processing
+CS-321 Informatique du temps réel
+CS-328 Numerical methods for visual computing
+EE-200 Electromagnétisme I : lignes et ondes
+EE-202(b) Electronique I
+EE-203(b) Electronique II
+EE-204 Circuits et systèmes I
+MATH-101(de) Analyse I (allemand)
+MATH-101(e) Analyse I
+MATH-101(en) Analyse I (anglais)
+MATH-111(e) Algèbre linéaire
+MATH-111(en) Algèbre linéaire (anglais)
+MATH-111(pi) Algèbre linéaire (cours pilote)
+MATH-203(c) Analyse III
+MATH-310 Algebra
+PHYS-101(de) Physique générale : mécanique (allemand)
+PHYS-101(en) Physique générale : mécanique (anglais)
+PHYS-101(g) Physique générale : mécanique
+PHYS-114 General physics: electromagnetism
+BIO-109 Introduction aux sciences du vivant (pour IC)
+COM-102 Advanced information, computation, communication II
+COM-302 Principles of digital communications
+COM-303 Signal processing for communications
+COM-307 Projet en systèmes de communication I
+COM-308 Internet analytics
+CS-108 Pratique de la programmation orientée-objet
+CS-173 Conception de systèmes numériques
+CS-206 Parallelism and concurrency
+CS-207 Programmation orientée système
+CS-207(a) Projet programmation système
+CS-209 Architecture des systems-on-chip
+CS-211 Introduction à l'informatique visuelle
+CS-233 Introduction to machine learning
+CS-251 Theory of computation
+CS-308 Calcul quantique
+CS-309 Projet de systems-on-chip
+CS-322 Introduction to database systems
+CS-330 Intelligence artificielle
+CS-341 Introduction to computer graphics
+EE-201 Electromagnétisme II : calcul des champs
+EE-205 Circuits and systems II
+EE-381 Electronique III
+MATH-106(e) Analyse II
+MATH-106(en) Analyse II (anglais)
+MATH-207(d) Analyse IV
+MATH-232 Probabilités et statistique
+COM-401 Cryptography and security
+COM-404 Information theory and coding
+COM-406 Information theory and signal processing
+COM-412 Projet de semestre en data science
+COM-415 Audio and acoustic signal processing
+COM-480 Data visualization
+COM-508 Optional project in data science
+COM-514 Mathematical foundations of signal processing
+COM-516 Markov chains and algorithmic applications
+COM-596 Stage d'ingénieur crédité avec le PDM (master en Data sciences)
+CS-401 Applied data analysis
+CS-411 Digital education & learning analytics
+CS-430 Intelligent agents
+CS-431 Introduction to natural language processing
+CS-433 Machine learning
+CS-455 Topics in theoretical computer science
+CS-523 Advanced topics on privacy enhancing technologies
+CS-524 Computational complexity
+CS-525 Foundations and tools for processing tree structured data
+EE-554 Automatic speech processing
+EE-558 A network tour of data science
+ENG-466 Distributed intelligent systems
+MATH-341 Linear models
+MATH-413 Statistics for data science
+MATH-442 Statistical theory
+MATH-447 Risk, rare events and extremes
+MATH-460 Combinatorial optimization
+BIO-465 Biological modeling of neural networks
+COM-402 Information security and privacy
+COM-412 Projet de semestre en data science
+COM-417 Advanced probability and applications
+COM-501 Advanced cryptography
+COM-503 Performance evaluation
+COM-506 Student seminar: security protocols and applications
+COM-508 Optional project in data science
+COM-512 Networks out of control
+COM-596 Stage d'ingénieur crédité avec le PDM (master en Data sciences)
+CS-410 Technology ventures in IC
+CS-413 Computational photography
+CS-423 Distributed information systems
+CS-435 Analytic algorithms
+CS-439 Optimization for machine learning
+CS-442 Computer vision
+CS-444 Virtual reality
+CS-449 Systems for data science
+CS-450 Advanced algorithms
+CS-456 Artificial neural networks
+CS-486 Human computer interaction
+CS-526 Learning theory
+EE-451 Image analysis and pattern recognition
+EE-490(h) Lab in data science
+MATH-342 Time series
+MATH-360 Graph theory
+MATH-441 Robust and nonparametric statistics
+MATH-453 Computational linear algebra
+MATH-493 Applied biostatistics
+BIO-105 Cellular biology and biochemistry for engineers
+COM-401 Cryptography and security
+COM-404 Information theory and coding
+COM-407 TCP/IP networking
+COM-414 Satellite communications systems and networks
+COM-415 Audio and acoustic signal processing
+COM-416 Projet en systèmes de communication II
+COM-430 Modern digital communications: a hands-on approach
+COM-480 Data visualization
+COM-502 Dynamical system theory for engineers
+COM-507 Optional project in communication systems
+COM-510 Advanced digital communications
+COM-514 Mathematical foundations of signal processing
+COM-516 Markov chains and algorithmic applications
+COM-597 Stage d'ingénieur crédité avec le PDM (master en Systèmes de communication)
+COM-599 Projet de master en systèmes de communication
+CS-401 Applied data analysis
+CS-411 Digital education & learning analytics
+CS-430 Intelligent agents
+CS-431 Introduction to natural language processing
+CS-433 Machine learning
+CS-438 Decentralized systems engineering
+CS-446 Digital 3D geometry processing
+CS-451 Distributed algorithms
+CS-453 Concurrent algorithms
+CS-455 Topics in theoretical computer science
+CS-471 Advanced multiprocessor architecture
+CS-472 Design technologies for integrated systems
+CS-473 Embedded systems
+CS-489 Experience design
+CS-522 Principles of computer systems
+CS-523 Advanced topics on privacy enhancing technologies
+CS-524 Computational complexity
+EE-445 Microwaves
+EE-512 Biomedical signal processing
+EE-550 Image and video processing
+EE-554 Automatic speech processing
+ENG-466 Distributed intelligent systems
+MATH-467 Probabilistic methods
+MATH-483 Gödel and recursivity
+MATH-489 Number theory in cryptography
+MICRO-511 Image processing I
+BIO-465 Biological modeling of neural networks
+COM-402 Information security and privacy
+COM-405 Mobile networks
+COM-413 Real-time networks
+COM-416 Projet en systèmes de communication II
+COM-417 Advanced probability and applications
+COM-500 Statistical signal and data processing through applications
+COM-501 Advanced cryptography
+COM-503 Performance evaluation
+COM-506 Student seminar: security protocols and applications
+COM-507 Optional project in communication systems
+COM-512 Networks out of control
+COM-597 Stage d'ingénieur crédité avec le PDM (master en Systèmes de communication)
+COM-599 Projet de master en systèmes de communication
+CS-410 Technology ventures in IC
+CS-413 Computational photography
+CS-422 Database systems
+CS-423 Distributed information systems
+CS-435 Analytic algorithms
+CS-439 Optimization for machine learning
+CS-440 Advanced computer graphics
+CS-442 Computer vision
+CS-444 Virtual reality
+CS-448 Sublinear algorithms for big data analysis
+CS-450 Advanced algorithms
+CS-456 Artificial neural networks
+CS-470 Advanced computer architecture
+CS-476 Real-time embedded systems
+CS-486 Human computer interaction
+CS-487 Industrial automation
+CS-490 Business design for IT services
+CS-491 Enterprise and service-oriented architecture
+CS-526 Learning theory
+EE-472 Smart grids technologies
+EE-511 Sensors in medical instrumentation
+EE-552 Media security
+EE-593 Social media
+MATH-318 Set theory
+MATH-409 Algebraic curves and cryptography
+MATH-493 Applied biostatistics
+MICRO-512 Image processing II
+HUM-114 Science, technologie et société A
+HUM-201 Enjeux politiques contemporains A
+HUM-202 Pratiques artistiques A
+HUM-203(a) Histoire de l'Asie contemporaine A
+HUM-204 Médias, communication et culture
+HUM-205 Design graphique I
+HUM-206 Design industriel I
+HUM-207(a) Ethique sociale et politique A
+HUM-208 État et droits humains
+HUM-213 Psychologie cognitive A
+HUM-215 Méditerranée: grands textes et mythes fondateurs A
+HUM-216 Philosophie des sciences A
+HUM-218 Psychologie sociale A
+HUM-219 Science et littérature C
+HUM-220 Travail et organisations
+HUM-221(a) Histoire des énergies et des transports A
+HUM-222 Pratiques artistiques C
+HUM-233 Histoire et théorie du cinéma
+HUM-241 Science et littérature A
+HUM-242 Musicologie et histoire de la musique A
+HUM-245(a) Economie et innovation
+HUM-248(a) Histoire des relations internationales
+HUM-249 Economie de la Chine
+HUM-256 Cerveau, esprit et société
+HUM-265(a) Asian studies
+HUM-304 Médias sociaux, culture et société
+HUM-305 Design graphique III
+HUM-306 Design industriel III
+HUM-308 Croissance et développement durable
+HUM-311 Histoire de l'image
+HUM-313 Musicologie et histoire de la musique C
+HUM-314 Méditerranée: grands textes et mythes fondateurs C
+HUM-315 Philosophie, épistémologie et histoire des sciences
+HUM-316 Cognitive psychology B
+HUM-317 Psychologie sociale C
+HUM-318 Sciences et religions A
+HUM-329 Ethique de la recherche scientifique
+HUM-330(a) Histoire des énergies et des transports B
+HUM-346 Gestion des ressources humaines
+HUM-348 Entrepreneurship
+HUM-352 Introduction au droit de la propriété intellectuelle
+HUM-353 Science, technologie et société C
+HUM-354 Religions: approches socio-culturelles B
+HUM-355 Coopération et développement
+HUM-357 Japon contemporain A
+HUM-358 Sciences de la mémoire
+HUM-367 Gouvernance des risques
+HUM-373 Sport, dopage et sciences
+HUM-374 Les mondes du patrimoine
+HUM-376 Visibiliser l'invisible : les coulisses de l'EPFL
+HUM-378 Créativité et design participatif
+HUM-401(a) Pratiques artistiques I
+HUM-402(a) Going East I
+HUM-403(a) Experimental cognitive psychology I
+HUM-404(a) Culture médiatique I
+HUM-406(a) Musique, politique, société I
+HUM-407(a) Design graphique V
+HUM-408(a) Design industriel V
+HUM-409(a) Images de la nature I
+HUM-410(a) Droit et technique I
+HUM-411(c) Economie et politique de l'énergie I
+HUM-412(c) Enjeux éthiques de l'ingénieur I
+HUM-416(a) Hommes / Machines I
+HUM-417(a) Philosophy, epistemology and history of science I
+HUM-418(a) Histoire et architecture de l'EPFL I
+HUM-419(a) Mythes de la Méditerranée ancienne I
+HUM-420(a) Psychologie sociale I
+HUM-422(a) Understanding modern Switzerland I
+HUM-427(a) History of globalization I
+HUM-428(a) Science, technologie et société I
+HUM-429(a) Philosophy of life sciences I
+HUM-432(a) How people learn I
+HUM-434(a) Chine: la renaissance d'une grande puissance I
+HUM-435(a) Gestion des organisations I
+HUM-436(a) Sciences et religions I
+HUM-437(a) La recherche dans tous ses états I
+HUM-439(c) Humanités digitales I
+HUM-440(a) Global perspectives, local realities I
+HUM-441(a) Création collective: arts-impro & ingénierie I
+HUM-442(a) Enjeux socio-politiques du numérique I
+HUM-120(b) Enjeux mondiaux: alimentation B
+HUM-121(a) Enjeux mondiaux: climat A
+HUM-121(b) Enjeux mondiaux: climat B
+HUM-122(a) Enjeux mondiaux: communication A
+HUM-122(b) Enjeux mondiaux: communication B
+HUM-123(a) Enjeux mondiaux: énergie A
+HUM-123(b) Enjeux mondiaux: énergie B
+HUM-125(a) Enjeux mondiaux: santé A
+HUM-125(b) Enjeux mondiaux: santé B
+HUM-217 Musicologie et histoire de la musique B
+HUM-224 Design graphique II
+HUM-225 Design industriel II
+HUM-226 Développement durable A
+HUM-228 Études musicales B
+HUM-229 Science, technologie et société B
+HUM-230 Le genre et ses représentations
+HUM-234 Droit des affaires
+HUM-237 Méditerranée: grands textes et mythes fondateurs B
+HUM-238 Philosophie des sciences B
+HUM-239 Psychologie des émotions
+HUM-240 Psychologie sociale B
+HUM-250 Enjeux politiques contemporains B
+HUM-251 Science et littérature B
+HUM-254 Histoire internationale contemporaine A
+HUM-257 Santé, population et société
+HUM-261 Afrique contemporaine
+HUM-262 Chine contemporaine
+HUM-263 Histoire des médias
+HUM-264 Introduction au monde russe
+HUM-266 Savoirs, connaissances, croyances
+HUM-271 Ethique sociale et politique B
+HUM-273 Musical improvisation, invention and creativity
+HUM-276 Histoire et humanités digitales
+HUM-277 Comportement humain et sciences économiques
+HUM-301 Pratiques artistiques B
+HUM-307 Droit de la recherche technologique
+HUM-321 Histoire de l'art contemporain
+HUM-322 Pratiques artistiques D
+HUM-323(a) Chine: une nouvelle puissance globale?
+HUM-324(a) Histoire de l'Asie contemporaine B
+HUM-326 Design graphique IV
+HUM-327 Design industriel IV
+HUM-331 Études musicales D
+HUM-332 Science, technologie et société D
+HUM-337(a) Médias et société
+HUM-339 Méditerranée: grands textes et mythes fondateurs D
+HUM-340 Histoire de la pensée économique
+HUM-343 Psychologie sociale D
+HUM-345 Science et littérature D
+HUM-347 Dynamiques de groupe dans les organisations
+HUM-350 L'Art Brut
+HUM-359 Ethique de l'environnement
+HUM-361 Introduction to social entrepreneurship
+HUM-363 Japon contemporain B
+HUM-364 Musicologie et histoire de la musique D
+HUM-365 Sciences et religions B
+HUM-368 Encountering Latin America
+HUM-369 Humanités digitales
+HUM-371 Histoire contemporaine de la Suisse
+HUM-375 Prototypage
+HUM-377 Enquêter dans les coulisses de l'EPFL
+HUM-380 Le jeu vidéo: média natif du numérique
+HUM-401(b) Pratiques artistiques II
+HUM-402(b) Going East II
+HUM-403(b) Experimental cognitive psychology II
+HUM-404(b) Culture médiatique II
+HUM-406(b) Musique, politique, société II
+HUM-407(b) Design graphique VI
+HUM-408(b) Design industriel VI
+HUM-409(b) Images de la nature II
+HUM-410(b) Droit et technique II
+HUM-411(d) Economie et politique de l'énergie II
+HUM-412(d) Enjeux éthiques de l'ingénieur II
+HUM-414(b) Études musicales II
+HUM-416(b) Hommes / Machines II
+HUM-417(b) Philosophy, epistemology and history of science II
+HUM-418(b) Histoire et architecture de l'EPFL II
+HUM-419(b) Mythes de la Méditerranée ancienne II
+HUM-420(b) Psychologie sociale II
+HUM-422(b) Understanding modern Switzerland II
+HUM-427(b) History of globalization II
+HUM-428(b) Science, technologie et société II
+HUM-429(b) Philosophy of life sciences II
+HUM-432(b) How people learn II
+HUM-434(b) Chine: la renaissance d'une grande puissance II
+HUM-435(b) Gestion des organisations II
+HUM-436(b) Sciences et religions II
+HUM-437(b) La recherche dans tous ses états II
+HUM-439(d) Humanités digitales II
+HUM-440(b) Global perspectives, local realities II
+HUM-441(b) Création collective: arts-impro & ingénierie II
+HUM-442(b) Enjeux socio-politiques du numérique II
+PENS-203 Diagnostic en ENAC, démarche et outils de mesure
+PENS-309 Quartiers, infrastructures et aménagements durables
